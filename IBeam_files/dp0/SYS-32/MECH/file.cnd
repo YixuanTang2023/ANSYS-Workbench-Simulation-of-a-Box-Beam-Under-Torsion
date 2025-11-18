@@ -1,0 +1,472 @@
+<SOLUTION>
+<HEADER FRQ="ITERATION">
+ <COLUMN ID="    1">Contact Pair ID</COLUMN>
+ <COLUMN ID="    2">Number of Contact Elements in Contact</COLUMN>
+ <COLUMN ID="    3">Number of Contact Elements in Contact (Sticking)</COLUMN>
+ <COLUMN ID="    4">Max. Chattering Level</COLUMN>
+ <COLUMN ID="    5">Max. Penetration/Min. Gap</COLUMN>
+ <COLUMN ID="    6">Max. Closed Gap</COLUMN>
+ <COLUMN ID="    7">Max. Normal Stiffness</COLUMN>
+ <COLUMN ID="    8">Min. Normal Stiffness</COLUMN>
+ <COLUMN ID="    9">Max. Resulting Pinball</COLUMN>
+ <COLUMN ID="   10">Max. Elastic Slip Distance</COLUMN>
+ <COLUMN ID="   11">Max. Tangential Stiffness</COLUMN>
+ <COLUMN ID="   12">Min. Tangential Stiffness</COLUMN>
+ <COLUMN ID="   13">Max. Sliding Distance</COLUMN>
+ <COLUMN ID="   14">Max. Contact Pressure</COLUMN>
+ <COLUMN ID="   15">Max. Friction Stress</COLUMN>
+ <COLUMN ID="   16">Average Contact Depth</COLUMN>
+ <COLUMN ID="   17">Max. Closed Penetration</COLUMN>
+ <COLUMN ID="   18">Number of Contact Points Have Too Much Penetration</COLUMN>
+ <COLUMN ID="   19">Contacting Area</COLUMN>
+ <COLUMN ID="   20">Max. Contact Damping Pressure</COLUMN>
+ <COLUMN ID="   21">Max. Contact Damping Tangential stress</COLUMN>
+ <COLUMN ID="   22">Max. Sliding Distance including near field</COLUMN>
+ <COLUMN ID="   23">Min. Sliding Distance including near field</COLUMN>
+ <COLUMN ID="   24">Max. normal fluid penetration pressure on contact surface</COLUMN>
+ <COLUMN ID="   25">Max. normal fluid penetration pressure on target surface</COLUMN>
+ <COLUMN ID="   26">Total volume loss due to wear on contact surface</COLUMN>
+ <COLUMN ID="   27">Total strain energy due to contact</COLUMN>
+ <COLUMN ID="   28">Frictional dissipation energy</COLUMN>
+ <COLUMN ID="   29">Contact damping dissipation energy</COLUMN>
+ <COLUMN ID="   30">WB contact pair ID</COLUMN>
+ <COLUMN ID="   31">Total contact force due to pressure -x component</COLUMN>
+ <COLUMN ID="   32">Total contact force due to pressure -y component</COLUMN>
+ <COLUMN ID="   33">Total contact force due to pressure -z component</COLUMN>
+ <COLUMN ID="   34">Total contact force due to tangential stress -x component</COLUMN>
+ <COLUMN ID="   35">Total contact force due to tangential stress -y component</COLUMN>
+ <COLUMN ID="   36">Total contact force due to tangential stress -z component</COLUMN>
+ <COLUMN ID="   37">Number of Contact Points Have Too Much sliding</COLUMN>
+ <COLUMN ID="   38">Contact pair force convergence norm</COLUMN>
+ <COLUMN ID="   39">Contact pair force criterion</COLUMN>
+ <COLUMN ID="   40">Max. tangential fluid penetration pressure on contact surface</COLUMN>
+ <COLUMN ID="   41">Max. tangential fluid penetration pressure on target surface</COLUMN>
+ <UNITS>SI</UNITS>
+</HEADER>
+<COLDATA LOAD_STEP="        1" SUBSTEP="        1" ITERATION="        0" TIME="    0.000000    ">
+</COLDATA>
+<COLDATA LOAD_STEP="        1" SUBSTEP="        1" ITERATION="        0" TIME="    1.000000    ">
+</COLDATA>
+<COLDATA LOAD_STEP="        1" SUBSTEP="        1" ITERATION="        1" TIME="    1.000000    ">
+</COLDATA>
+<COLDATA LOAD_STEP="        1" SUBSTEP="        1" ITERATION="        2" TIME="    1.000000    ">
+</COLDATA>
+<COLDATA LOAD_STEP="        1" SUBSTEP="        1" ITERATION="        3" TIME="    1.000000    ">
+</COLDATA>
+<COLDATA LOAD_STEP="        1" SUBSTEP="        1" ITERATION="        4" TIME="    1.000000    ">
+</COLDATA>
+<COLDATA LOAD_STEP="        1" SUBSTEP="        1" ITERATION="        5" TIME="    1.000000    ">
+</COLDATA>
+<COLDATA LOAD_STEP="        1" SUBSTEP="        1" ITERATION="        6" TIME="    1.000000    ">
+</COLDATA>
+<COLDATA LOAD_STEP="        1" SUBSTEP="        1" ITERATION="        7" TIME="    1.000000    ">
+</COLDATA>
+<COLDATA LOAD_STEP="        1" SUBSTEP="        1" ITERATION="        8" TIME="    1.000000    ">
+</COLDATA>
+<COLDATA LOAD_STEP="        1" SUBSTEP="        1" ITERATION="        9" TIME="    1.000000    ">
+</COLDATA>
+<COLDATA LOAD_STEP="        1" SUBSTEP="        1" ITERATION="       10" TIME="    1.000000    ">
+</COLDATA>
+<COLDATA LOAD_STEP="        1" SUBSTEP="        1" ITERATION="       11" TIME="    1.000000    ">
+</COLDATA>
+<COLDATA LOAD_STEP="        1" SUBSTEP="        1" ITERATION="       12" TIME="    1.000000    ">
+</COLDATA>
+<COLDATA LOAD_STEP="        1" SUBSTEP="        1" ITERATION="       13" TIME="    1.000000    ">
+</COLDATA>
+<COLDATA LOAD_STEP="        2" SUBSTEP="        1" ITERATION="        0" TIME="    2.000000    ">
+</COLDATA>
+<COLDATA LOAD_STEP="        2" SUBSTEP="        1" ITERATION="        1" TIME="    2.000000    ">
+</COLDATA>
+<COLDATA LOAD_STEP="        3" SUBSTEP="        1" ITERATION="        0" TIME="    3.000000    ">
+</COLDATA>
+<COLDATA LOAD_STEP="        3" SUBSTEP="        1" ITERATION="        1" TIME="    3.000000    ">
+</COLDATA>
+<COLDATA LOAD_STEP="        4" SUBSTEP="        1" ITERATION="        0" TIME="    4.000000    ">
+</COLDATA>
+<COLDATA LOAD_STEP="        4" SUBSTEP="        1" ITERATION="        1" TIME="    4.000000    ">
+</COLDATA>
+<COLDATA LOAD_STEP="        5" SUBSTEP="        1" ITERATION="        0" TIME="    5.000000    ">
+</COLDATA>
+<COLDATA LOAD_STEP="        5" SUBSTEP="        1" ITERATION="        1" TIME="    5.000000    ">
+</COLDATA>
+<COLDATA LOAD_STEP="        6" SUBSTEP="        1" ITERATION="        0" TIME="    6.000000    ">
+</COLDATA>
+<COLDATA LOAD_STEP="        6" SUBSTEP="        1" ITERATION="        1" TIME="    6.000000    ">
+</COLDATA>
+<COLDATA LOAD_STEP="        7" SUBSTEP="        1" ITERATION="        0" TIME="    7.000000    ">
+</COLDATA>
+<COLDATA LOAD_STEP="        7" SUBSTEP="        1" ITERATION="        1" TIME="    7.000000    ">
+</COLDATA>
+<COLDATA LOAD_STEP="        8" SUBSTEP="        1" ITERATION="        0" TIME="    8.000000    ">
+</COLDATA>
+<COLDATA LOAD_STEP="        8" SUBSTEP="        1" ITERATION="        1" TIME="    8.000000    ">
+</COLDATA>
+<COLDATA LOAD_STEP="        9" SUBSTEP="        1" ITERATION="        0" TIME="    9.000000    ">
+</COLDATA>
+<COLDATA LOAD_STEP="        9" SUBSTEP="        1" ITERATION="        1" TIME="    9.000000    ">
+</COLDATA>
+<COLDATA LOAD_STEP="       10" SUBSTEP="        1" ITERATION="        0" TIME="    10.00000    ">
+</COLDATA>
+<COLDATA LOAD_STEP="       10" SUBSTEP="        1" ITERATION="        1" TIME="    10.00000    ">
+</COLDATA>
+<COLDATA LOAD_STEP="       11" SUBSTEP="        1" ITERATION="        0" TIME="    11.00000    ">
+</COLDATA>
+<COLDATA LOAD_STEP="       11" SUBSTEP="        1" ITERATION="        1" TIME="    11.00000    ">
+</COLDATA>
+<COLDATA LOAD_STEP="       12" SUBSTEP="        1" ITERATION="        0" TIME="    12.00000    ">
+</COLDATA>
+<COLDATA LOAD_STEP="       12" SUBSTEP="        1" ITERATION="        1" TIME="    12.00000    ">
+</COLDATA>
+<COLDATA LOAD_STEP="       13" SUBSTEP="        1" ITERATION="        0" TIME="    13.00000    ">
+</COLDATA>
+<COLDATA LOAD_STEP="       13" SUBSTEP="        1" ITERATION="        1" TIME="    13.00000    ">
+</COLDATA>
+<COLDATA LOAD_STEP="       14" SUBSTEP="        1" ITERATION="        0" TIME="    14.00000    ">
+</COLDATA>
+<COLDATA LOAD_STEP="       14" SUBSTEP="        1" ITERATION="        1" TIME="    14.00000    ">
+</COLDATA>
+<COLDATA LOAD_STEP="       15" SUBSTEP="        1" ITERATION="        0" TIME="    15.00000    ">
+</COLDATA>
+<COLDATA LOAD_STEP="       15" SUBSTEP="        1" ITERATION="        1" TIME="    15.00000    ">
+</COLDATA>
+<COLDATA LOAD_STEP="       16" SUBSTEP="        1" ITERATION="        0" TIME="    16.00000    ">
+</COLDATA>
+<COLDATA LOAD_STEP="       16" SUBSTEP="        1" ITERATION="        1" TIME="    16.00000    ">
+</COLDATA>
+<COLDATA LOAD_STEP="       17" SUBSTEP="        1" ITERATION="        0" TIME="    17.00000    ">
+</COLDATA>
+<COLDATA LOAD_STEP="       17" SUBSTEP="        1" ITERATION="        1" TIME="    17.00000    ">
+</COLDATA>
+<COLDATA LOAD_STEP="       18" SUBSTEP="        1" ITERATION="        0" TIME="    18.00000    ">
+</COLDATA>
+<COLDATA LOAD_STEP="       18" SUBSTEP="        1" ITERATION="        1" TIME="    18.00000    ">
+</COLDATA>
+<COLDATA LOAD_STEP="       19" SUBSTEP="        1" ITERATION="        0" TIME="    19.00000    ">
+</COLDATA>
+<COLDATA LOAD_STEP="       19" SUBSTEP="        1" ITERATION="        1" TIME="    19.00000    ">
+</COLDATA>
+<COLDATA LOAD_STEP="       20" SUBSTEP="        1" ITERATION="        0" TIME="    20.00000    ">
+</COLDATA>
+<COLDATA LOAD_STEP="       20" SUBSTEP="        1" ITERATION="        1" TIME="    20.00000    ">
+</COLDATA>
+<COLDATA LOAD_STEP="       21" SUBSTEP="        1" ITERATION="        0" TIME="    21.00000    ">
+</COLDATA>
+<COLDATA LOAD_STEP="       21" SUBSTEP="        1" ITERATION="        1" TIME="    21.00000    ">
+</COLDATA>
+<COLDATA LOAD_STEP="       22" SUBSTEP="        1" ITERATION="        0" TIME="    22.00000    ">
+</COLDATA>
+<COLDATA LOAD_STEP="       22" SUBSTEP="        1" ITERATION="        1" TIME="    22.00000    ">
+</COLDATA>
+<COLDATA LOAD_STEP="       23" SUBSTEP="        1" ITERATION="        0" TIME="    23.00000    ">
+</COLDATA>
+<COLDATA LOAD_STEP="       23" SUBSTEP="        1" ITERATION="        1" TIME="    23.00000    ">
+</COLDATA>
+<COLDATA LOAD_STEP="       24" SUBSTEP="        1" ITERATION="        0" TIME="    24.00000    ">
+</COLDATA>
+<COLDATA LOAD_STEP="       24" SUBSTEP="        1" ITERATION="        1" TIME="    24.00000    ">
+</COLDATA>
+<COLDATA LOAD_STEP="       25" SUBSTEP="        1" ITERATION="        0" TIME="    25.00000    ">
+</COLDATA>
+<COLDATA LOAD_STEP="       25" SUBSTEP="        1" ITERATION="        1" TIME="    25.00000    ">
+</COLDATA>
+<COLDATA LOAD_STEP="       26" SUBSTEP="        1" ITERATION="        0" TIME="    26.00000    ">
+</COLDATA>
+<COLDATA LOAD_STEP="       26" SUBSTEP="        1" ITERATION="        1" TIME="    26.00000    ">
+</COLDATA>
+<COLDATA LOAD_STEP="       27" SUBSTEP="        1" ITERATION="        0" TIME="    27.00000    ">
+</COLDATA>
+<COLDATA LOAD_STEP="       27" SUBSTEP="        1" ITERATION="        1" TIME="    27.00000    ">
+</COLDATA>
+<COLDATA LOAD_STEP="       28" SUBSTEP="        1" ITERATION="        0" TIME="    28.00000    ">
+</COLDATA>
+<COLDATA LOAD_STEP="       28" SUBSTEP="        1" ITERATION="        1" TIME="    28.00000    ">
+</COLDATA>
+<COLDATA LOAD_STEP="       29" SUBSTEP="        1" ITERATION="        0" TIME="    29.00000    ">
+</COLDATA>
+<COLDATA LOAD_STEP="       29" SUBSTEP="        1" ITERATION="        1" TIME="    29.00000    ">
+</COLDATA>
+<COLDATA LOAD_STEP="       30" SUBSTEP="        1" ITERATION="        0" TIME="    30.00000    ">
+</COLDATA>
+<COLDATA LOAD_STEP="       30" SUBSTEP="        1" ITERATION="        1" TIME="    30.00000    ">
+</COLDATA>
+<COLDATA LOAD_STEP="       31" SUBSTEP="        1" ITERATION="        0" TIME="    31.00000    ">
+</COLDATA>
+<COLDATA LOAD_STEP="       31" SUBSTEP="        1" ITERATION="        1" TIME="    31.00000    ">
+</COLDATA>
+<COLDATA LOAD_STEP="       32" SUBSTEP="        1" ITERATION="        0" TIME="    32.00000    ">
+</COLDATA>
+<COLDATA LOAD_STEP="       32" SUBSTEP="        1" ITERATION="        1" TIME="    32.00000    ">
+</COLDATA>
+<COLDATA LOAD_STEP="       33" SUBSTEP="        1" ITERATION="        0" TIME="    33.00000    ">
+</COLDATA>
+<COLDATA LOAD_STEP="       33" SUBSTEP="        1" ITERATION="        1" TIME="    33.00000    ">
+</COLDATA>
+<COLDATA LOAD_STEP="       34" SUBSTEP="        1" ITERATION="        0" TIME="    34.00000    ">
+</COLDATA>
+<COLDATA LOAD_STEP="       34" SUBSTEP="        1" ITERATION="        1" TIME="    34.00000    ">
+</COLDATA>
+<COLDATA LOAD_STEP="       35" SUBSTEP="        1" ITERATION="        0" TIME="    35.00000    ">
+</COLDATA>
+<COLDATA LOAD_STEP="       35" SUBSTEP="        1" ITERATION="        1" TIME="    35.00000    ">
+</COLDATA>
+<COLDATA LOAD_STEP="       36" SUBSTEP="        1" ITERATION="        0" TIME="    36.00000    ">
+</COLDATA>
+<COLDATA LOAD_STEP="       36" SUBSTEP="        1" ITERATION="        1" TIME="    36.00000    ">
+</COLDATA>
+<COLDATA LOAD_STEP="       37" SUBSTEP="        1" ITERATION="        0" TIME="    37.00000    ">
+</COLDATA>
+<COLDATA LOAD_STEP="       37" SUBSTEP="        1" ITERATION="        1" TIME="    37.00000    ">
+</COLDATA>
+<COLDATA LOAD_STEP="       38" SUBSTEP="        1" ITERATION="        0" TIME="    38.00000    ">
+</COLDATA>
+<COLDATA LOAD_STEP="       38" SUBSTEP="        1" ITERATION="        1" TIME="    38.00000    ">
+</COLDATA>
+<COLDATA LOAD_STEP="       39" SUBSTEP="        1" ITERATION="        0" TIME="    39.00000    ">
+</COLDATA>
+<COLDATA LOAD_STEP="       39" SUBSTEP="        1" ITERATION="        1" TIME="    39.00000    ">
+</COLDATA>
+<COLDATA LOAD_STEP="       40" SUBSTEP="        1" ITERATION="        0" TIME="    40.00000    ">
+</COLDATA>
+<COLDATA LOAD_STEP="       40" SUBSTEP="        1" ITERATION="        1" TIME="    40.00000    ">
+</COLDATA>
+<COLDATA LOAD_STEP="       41" SUBSTEP="        1" ITERATION="        0" TIME="    41.00000    ">
+</COLDATA>
+<COLDATA LOAD_STEP="       41" SUBSTEP="        1" ITERATION="        1" TIME="    41.00000    ">
+</COLDATA>
+<COLDATA LOAD_STEP="       42" SUBSTEP="        1" ITERATION="        0" TIME="    42.00000    ">
+</COLDATA>
+<COLDATA LOAD_STEP="       42" SUBSTEP="        1" ITERATION="        1" TIME="    42.00000    ">
+</COLDATA>
+<COLDATA LOAD_STEP="       43" SUBSTEP="        1" ITERATION="        0" TIME="    43.00000    ">
+</COLDATA>
+<COLDATA LOAD_STEP="       43" SUBSTEP="        1" ITERATION="        1" TIME="    43.00000    ">
+</COLDATA>
+<COLDATA LOAD_STEP="       44" SUBSTEP="        1" ITERATION="        0" TIME="    44.00000    ">
+</COLDATA>
+<COLDATA LOAD_STEP="       44" SUBSTEP="        1" ITERATION="        1" TIME="    44.00000    ">
+</COLDATA>
+<COLDATA LOAD_STEP="       45" SUBSTEP="        1" ITERATION="        0" TIME="    45.00000    ">
+</COLDATA>
+<COLDATA LOAD_STEP="       45" SUBSTEP="        1" ITERATION="        1" TIME="    45.00000    ">
+</COLDATA>
+<COLDATA LOAD_STEP="       46" SUBSTEP="        1" ITERATION="        0" TIME="    46.00000    ">
+</COLDATA>
+<COLDATA LOAD_STEP="       46" SUBSTEP="        1" ITERATION="        1" TIME="    46.00000    ">
+</COLDATA>
+<COLDATA LOAD_STEP="       47" SUBSTEP="        1" ITERATION="        0" TIME="    47.00000    ">
+</COLDATA>
+<COLDATA LOAD_STEP="       47" SUBSTEP="        1" ITERATION="        1" TIME="    47.00000    ">
+</COLDATA>
+<COLDATA LOAD_STEP="       48" SUBSTEP="        1" ITERATION="        0" TIME="    48.00000    ">
+</COLDATA>
+<COLDATA LOAD_STEP="       48" SUBSTEP="        1" ITERATION="        1" TIME="    48.00000    ">
+</COLDATA>
+<COLDATA LOAD_STEP="       49" SUBSTEP="        1" ITERATION="        0" TIME="    49.00000    ">
+</COLDATA>
+<COLDATA LOAD_STEP="       49" SUBSTEP="        1" ITERATION="        1" TIME="    49.00000    ">
+</COLDATA>
+<COLDATA LOAD_STEP="       50" SUBSTEP="        1" ITERATION="        0" TIME="    50.00000    ">
+</COLDATA>
+<COLDATA LOAD_STEP="       50" SUBSTEP="        1" ITERATION="        1" TIME="    50.00000    ">
+</COLDATA>
+<COLDATA LOAD_STEP="       51" SUBSTEP="        1" ITERATION="        0" TIME="    51.00000    ">
+</COLDATA>
+<COLDATA LOAD_STEP="       51" SUBSTEP="        1" ITERATION="        1" TIME="    51.00000    ">
+</COLDATA>
+<COLDATA LOAD_STEP="       52" SUBSTEP="        1" ITERATION="        0" TIME="    52.00000    ">
+</COLDATA>
+<COLDATA LOAD_STEP="       52" SUBSTEP="        1" ITERATION="        1" TIME="    52.00000    ">
+</COLDATA>
+<COLDATA LOAD_STEP="       53" SUBSTEP="        1" ITERATION="        0" TIME="    53.00000    ">
+</COLDATA>
+<COLDATA LOAD_STEP="       53" SUBSTEP="        1" ITERATION="        1" TIME="    53.00000    ">
+</COLDATA>
+<COLDATA LOAD_STEP="       54" SUBSTEP="        1" ITERATION="        0" TIME="    54.00000    ">
+</COLDATA>
+<COLDATA LOAD_STEP="       54" SUBSTEP="        1" ITERATION="        1" TIME="    54.00000    ">
+</COLDATA>
+<COLDATA LOAD_STEP="       55" SUBSTEP="        1" ITERATION="        0" TIME="    55.00000    ">
+</COLDATA>
+<COLDATA LOAD_STEP="       55" SUBSTEP="        1" ITERATION="        1" TIME="    55.00000    ">
+</COLDATA>
+<COLDATA LOAD_STEP="       56" SUBSTEP="        1" ITERATION="        0" TIME="    56.00000    ">
+</COLDATA>
+<COLDATA LOAD_STEP="       56" SUBSTEP="        1" ITERATION="        1" TIME="    56.00000    ">
+</COLDATA>
+<COLDATA LOAD_STEP="       57" SUBSTEP="        1" ITERATION="        0" TIME="    57.00000    ">
+</COLDATA>
+<COLDATA LOAD_STEP="       57" SUBSTEP="        1" ITERATION="        1" TIME="    57.00000    ">
+</COLDATA>
+<COLDATA LOAD_STEP="       58" SUBSTEP="        1" ITERATION="        0" TIME="    58.00000    ">
+</COLDATA>
+<COLDATA LOAD_STEP="       58" SUBSTEP="        1" ITERATION="        1" TIME="    58.00000    ">
+</COLDATA>
+<COLDATA LOAD_STEP="       59" SUBSTEP="        1" ITERATION="        0" TIME="    59.00000    ">
+</COLDATA>
+<COLDATA LOAD_STEP="       59" SUBSTEP="        1" ITERATION="        1" TIME="    59.00000    ">
+</COLDATA>
+<COLDATA LOAD_STEP="       60" SUBSTEP="        1" ITERATION="        0" TIME="    60.00000    ">
+</COLDATA>
+<COLDATA LOAD_STEP="       60" SUBSTEP="        1" ITERATION="        1" TIME="    60.00000    ">
+</COLDATA>
+<COLDATA LOAD_STEP="       61" SUBSTEP="        1" ITERATION="        0" TIME="    61.00000    ">
+</COLDATA>
+<COLDATA LOAD_STEP="       61" SUBSTEP="        1" ITERATION="        1" TIME="    61.00000    ">
+</COLDATA>
+<COLDATA LOAD_STEP="       62" SUBSTEP="        1" ITERATION="        0" TIME="    62.00000    ">
+</COLDATA>
+<COLDATA LOAD_STEP="       62" SUBSTEP="        1" ITERATION="        1" TIME="    62.00000    ">
+</COLDATA>
+<COLDATA LOAD_STEP="       63" SUBSTEP="        1" ITERATION="        0" TIME="    63.00000    ">
+</COLDATA>
+<COLDATA LOAD_STEP="       63" SUBSTEP="        1" ITERATION="        1" TIME="    63.00000    ">
+</COLDATA>
+<COLDATA LOAD_STEP="       64" SUBSTEP="        1" ITERATION="        0" TIME="    64.00000    ">
+</COLDATA>
+<COLDATA LOAD_STEP="       64" SUBSTEP="        1" ITERATION="        1" TIME="    64.00000    ">
+</COLDATA>
+<COLDATA LOAD_STEP="       65" SUBSTEP="        1" ITERATION="        0" TIME="    65.00000    ">
+</COLDATA>
+<COLDATA LOAD_STEP="       65" SUBSTEP="        1" ITERATION="        1" TIME="    65.00000    ">
+</COLDATA>
+<COLDATA LOAD_STEP="       66" SUBSTEP="        1" ITERATION="        0" TIME="    66.00000    ">
+</COLDATA>
+<COLDATA LOAD_STEP="       66" SUBSTEP="        1" ITERATION="        1" TIME="    66.00000    ">
+</COLDATA>
+<COLDATA LOAD_STEP="       67" SUBSTEP="        1" ITERATION="        0" TIME="    67.00000    ">
+</COLDATA>
+<COLDATA LOAD_STEP="       67" SUBSTEP="        1" ITERATION="        1" TIME="    67.00000    ">
+</COLDATA>
+<COLDATA LOAD_STEP="       68" SUBSTEP="        1" ITERATION="        0" TIME="    68.00000    ">
+</COLDATA>
+<COLDATA LOAD_STEP="       68" SUBSTEP="        1" ITERATION="        1" TIME="    68.00000    ">
+</COLDATA>
+<COLDATA LOAD_STEP="       69" SUBSTEP="        1" ITERATION="        0" TIME="    69.00000    ">
+</COLDATA>
+<COLDATA LOAD_STEP="       69" SUBSTEP="        1" ITERATION="        1" TIME="    69.00000    ">
+</COLDATA>
+<COLDATA LOAD_STEP="       70" SUBSTEP="        1" ITERATION="        0" TIME="    70.00000    ">
+</COLDATA>
+<COLDATA LOAD_STEP="       70" SUBSTEP="        1" ITERATION="        1" TIME="    70.00000    ">
+</COLDATA>
+<COLDATA LOAD_STEP="       71" SUBSTEP="        1" ITERATION="        0" TIME="    71.00000    ">
+</COLDATA>
+<COLDATA LOAD_STEP="       71" SUBSTEP="        1" ITERATION="        1" TIME="    71.00000    ">
+</COLDATA>
+<COLDATA LOAD_STEP="       72" SUBSTEP="        1" ITERATION="        0" TIME="    72.00000    ">
+</COLDATA>
+<COLDATA LOAD_STEP="       72" SUBSTEP="        1" ITERATION="        1" TIME="    72.00000    ">
+</COLDATA>
+<COLDATA LOAD_STEP="       73" SUBSTEP="        1" ITERATION="        0" TIME="    73.00000    ">
+</COLDATA>
+<COLDATA LOAD_STEP="       73" SUBSTEP="        1" ITERATION="        1" TIME="    73.00000    ">
+</COLDATA>
+<COLDATA LOAD_STEP="       74" SUBSTEP="        1" ITERATION="        0" TIME="    74.00000    ">
+</COLDATA>
+<COLDATA LOAD_STEP="       74" SUBSTEP="        1" ITERATION="        1" TIME="    74.00000    ">
+</COLDATA>
+<COLDATA LOAD_STEP="       75" SUBSTEP="        1" ITERATION="        0" TIME="    75.00000    ">
+</COLDATA>
+<COLDATA LOAD_STEP="       75" SUBSTEP="        1" ITERATION="        1" TIME="    75.00000    ">
+</COLDATA>
+<COLDATA LOAD_STEP="       76" SUBSTEP="        1" ITERATION="        0" TIME="    76.00000    ">
+</COLDATA>
+<COLDATA LOAD_STEP="       76" SUBSTEP="        1" ITERATION="        1" TIME="    76.00000    ">
+</COLDATA>
+<COLDATA LOAD_STEP="       77" SUBSTEP="        1" ITERATION="        0" TIME="    77.00000    ">
+</COLDATA>
+<COLDATA LOAD_STEP="       77" SUBSTEP="        1" ITERATION="        1" TIME="    77.00000    ">
+</COLDATA>
+<COLDATA LOAD_STEP="       78" SUBSTEP="        1" ITERATION="        0" TIME="    78.00000    ">
+</COLDATA>
+<COLDATA LOAD_STEP="       78" SUBSTEP="        1" ITERATION="        1" TIME="    78.00000    ">
+</COLDATA>
+<COLDATA LOAD_STEP="       79" SUBSTEP="        1" ITERATION="        0" TIME="    79.00000    ">
+</COLDATA>
+<COLDATA LOAD_STEP="       79" SUBSTEP="        1" ITERATION="        1" TIME="    79.00000    ">
+</COLDATA>
+<COLDATA LOAD_STEP="       80" SUBSTEP="        1" ITERATION="        0" TIME="    80.00000    ">
+</COLDATA>
+<COLDATA LOAD_STEP="       80" SUBSTEP="        1" ITERATION="        1" TIME="    80.00000    ">
+</COLDATA>
+<COLDATA LOAD_STEP="       81" SUBSTEP="        1" ITERATION="        0" TIME="    81.00000    ">
+</COLDATA>
+<COLDATA LOAD_STEP="       81" SUBSTEP="        1" ITERATION="        1" TIME="    81.00000    ">
+</COLDATA>
+<COLDATA LOAD_STEP="       82" SUBSTEP="        1" ITERATION="        0" TIME="    82.00000    ">
+</COLDATA>
+<COLDATA LOAD_STEP="       82" SUBSTEP="        1" ITERATION="        1" TIME="    82.00000    ">
+</COLDATA>
+<COLDATA LOAD_STEP="       83" SUBSTEP="        1" ITERATION="        0" TIME="    83.00000    ">
+</COLDATA>
+<COLDATA LOAD_STEP="       83" SUBSTEP="        1" ITERATION="        1" TIME="    83.00000    ">
+</COLDATA>
+<COLDATA LOAD_STEP="       84" SUBSTEP="        1" ITERATION="        0" TIME="    84.00000    ">
+</COLDATA>
+<COLDATA LOAD_STEP="       84" SUBSTEP="        1" ITERATION="        1" TIME="    84.00000    ">
+</COLDATA>
+<COLDATA LOAD_STEP="       85" SUBSTEP="        1" ITERATION="        0" TIME="    85.00000    ">
+</COLDATA>
+<COLDATA LOAD_STEP="       85" SUBSTEP="        1" ITERATION="        1" TIME="    85.00000    ">
+</COLDATA>
+<COLDATA LOAD_STEP="       86" SUBSTEP="        1" ITERATION="        0" TIME="    86.00000    ">
+</COLDATA>
+<COLDATA LOAD_STEP="       86" SUBSTEP="        1" ITERATION="        1" TIME="    86.00000    ">
+</COLDATA>
+<COLDATA LOAD_STEP="       87" SUBSTEP="        1" ITERATION="        0" TIME="    87.00000    ">
+</COLDATA>
+<COLDATA LOAD_STEP="       87" SUBSTEP="        1" ITERATION="        1" TIME="    87.00000    ">
+</COLDATA>
+<COLDATA LOAD_STEP="       88" SUBSTEP="        1" ITERATION="        0" TIME="    88.00000    ">
+</COLDATA>
+<COLDATA LOAD_STEP="       88" SUBSTEP="        1" ITERATION="        1" TIME="    88.00000    ">
+</COLDATA>
+<COLDATA LOAD_STEP="       89" SUBSTEP="        1" ITERATION="        0" TIME="    89.00000    ">
+</COLDATA>
+<COLDATA LOAD_STEP="       89" SUBSTEP="        1" ITERATION="        1" TIME="    89.00000    ">
+</COLDATA>
+<COLDATA LOAD_STEP="       90" SUBSTEP="        1" ITERATION="        0" TIME="    90.00000    ">
+</COLDATA>
+<COLDATA LOAD_STEP="       90" SUBSTEP="        1" ITERATION="        1" TIME="    90.00000    ">
+</COLDATA>
+<COLDATA LOAD_STEP="       91" SUBSTEP="        1" ITERATION="        0" TIME="    91.00000    ">
+</COLDATA>
+<COLDATA LOAD_STEP="       91" SUBSTEP="        1" ITERATION="        1" TIME="    91.00000    ">
+</COLDATA>
+<COLDATA LOAD_STEP="       92" SUBSTEP="        1" ITERATION="        0" TIME="    92.00000    ">
+</COLDATA>
+<COLDATA LOAD_STEP="       92" SUBSTEP="        1" ITERATION="        1" TIME="    92.00000    ">
+</COLDATA>
+<COLDATA LOAD_STEP="       93" SUBSTEP="        1" ITERATION="        0" TIME="    93.00000    ">
+</COLDATA>
+<COLDATA LOAD_STEP="       93" SUBSTEP="        1" ITERATION="        1" TIME="    93.00000    ">
+</COLDATA>
+<COLDATA LOAD_STEP="       94" SUBSTEP="        1" ITERATION="        0" TIME="    94.00000    ">
+</COLDATA>
+<COLDATA LOAD_STEP="       94" SUBSTEP="        1" ITERATION="        1" TIME="    94.00000    ">
+</COLDATA>
+<COLDATA LOAD_STEP="       95" SUBSTEP="        1" ITERATION="        0" TIME="    95.00000    ">
+</COLDATA>
+<COLDATA LOAD_STEP="       95" SUBSTEP="        1" ITERATION="        1" TIME="    95.00000    ">
+</COLDATA>
+<COLDATA LOAD_STEP="       96" SUBSTEP="        1" ITERATION="        0" TIME="    96.00000    ">
+</COLDATA>
+<COLDATA LOAD_STEP="       96" SUBSTEP="        1" ITERATION="        1" TIME="    96.00000    ">
+</COLDATA>
+<COLDATA LOAD_STEP="       97" SUBSTEP="        1" ITERATION="        0" TIME="    97.00000    ">
+</COLDATA>
+<COLDATA LOAD_STEP="       97" SUBSTEP="        1" ITERATION="        1" TIME="    97.00000    ">
+</COLDATA>
+<COLDATA LOAD_STEP="       98" SUBSTEP="        1" ITERATION="        0" TIME="    98.00000    ">
+</COLDATA>
+<COLDATA LOAD_STEP="       98" SUBSTEP="        1" ITERATION="        1" TIME="    98.00000    ">
+</COLDATA>
+<COLDATA LOAD_STEP="       99" SUBSTEP="        1" ITERATION="        0" TIME="    99.00000    ">
+</COLDATA>
+<COLDATA LOAD_STEP="       99" SUBSTEP="        1" ITERATION="        1" TIME="    99.00000    ">
+</COLDATA>
+<COLDATA LOAD_STEP="      100" SUBSTEP="        1" ITERATION="        0" TIME="    100.0000    ">
+</COLDATA>
+<COLDATA LOAD_STEP="      100" SUBSTEP="        1" ITERATION="        1" TIME="    100.0000    ">
+</COLDATA>
+</SOLUTION>

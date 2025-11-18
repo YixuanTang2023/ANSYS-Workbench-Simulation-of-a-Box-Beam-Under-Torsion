@@ -1,0 +1,18 @@
+# encoding: utf-8
+# 2020 R1
+SetScriptVersion(Version="20.1.164")
+system1 = GetSystem(Name="SYS 2")
+model1 = system1.GetContainer(ComponentName="Model")
+model1.Edit()
+model1.Edit()
+system2 = GetSystem(Name="SYS 6")
+model2 = system2.GetContainer(ComponentName="Model")
+model2.Edit()
+Save(Overwrite=True)
+Save(Overwrite=True)
+system1.DisplayText = "Rec of Static Structural"
+system2.DisplayText = "Rec of Static Structural"
+Save(Overwrite=True)
+Save(Overwrite=True)
+Save(Overwrite=True)
+Save(Overwrite=True)

@@ -1,0 +1,122 @@
+# encoding: utf-8
+# 2020 R1
+SetScriptVersion(Version="20.1.164")
+system1 = GetSystem(Name="SYS 11")
+model1 = system1.GetContainer(ComponentName="Model")
+model1.Edit()
+system2 = GetSystem(Name="SYS 10")
+system2.Delete()
+system3 = GetSystem(Name="SYS 9")
+system3.Delete()
+system4 = GetSystem(Name="SYS 8")
+system4.Delete()
+system5 = GetSystem(Name="SYS 7")
+system5.Delete()
+system6 = GetSystem(Name="SYS 6")
+system6.Delete()
+system7 = GetSystem(Name="SYS 4")
+model2 = system7.GetContainer(ComponentName="Model")
+model2.Edit()
+system8 = GetSystem(Name="SYS 3")
+model3 = system8.GetContainer(ComponentName="Model")
+model3.Edit()
+model3.Edit()
+Save(Overwrite=True)
+Save(Overwrite=True)
+Save(Overwrite=True)
+system9 = GetSystem(Name="SYS 2")
+modelComponent1 = system9.GetComponent(Name="Model")
+modelComponent1.Refresh()
+geometry1 = system9.GetContainer(ComponentName="Geometry")
+geometry1.Edit()
+geometry1.Exit()
+system8.Delete()
+system9.Delete()
+system7.Copy(KeepConnections=True)
+system10 = GetSystem(Name="SYS 2")
+engineeringData1 = system10.GetContainer(ComponentName="Engineering Data")
+matl1 = engineeringData1.CreateMaterial(Name="torsinalmy")
+matlProp1 = matl1.CreateProperty(
+    Name="Elasticity",
+    Behavior="Isotropic",
+    Qualifiers={"Definition": "", "Behavior": "Isotropic"})
+matlProp1.SetData(
+    Index=-1,
+    Variables=["Young's Modulus"],
+    Values=[["71700000000 [Pa]"]])
+matlProp1.SetData(
+    Variables=["Poisson's Ratio"],
+    Values=[["0.3"]])
+geometry2 = system10.GetContainer(ComponentName="Geometry")
+geometry2.Edit()
+Save(Overwrite=True)
+geometry2.Exit()
+Save(Overwrite=True)
+Save(Overwrite=True)
+model2.Exit()
+model2.Edit()
+model2.Exit()
+system7.Copy(KeepConnections=True)
+system11 = GetSystem(Name="SYS 3")
+model4 = system11.GetContainer(ComponentName="Model")
+model4.Edit()
+engineeringData2 = system11.GetContainer(ComponentName="Engineering Data")
+matl2 = engineeringData2.CreateMaterial(Name="torsional")
+matl2 = engineeringData2.CreateMaterial(Name="torsinalMy")
+matlProp2 = matl2.CreateProperty(
+    Name="Elasticity",
+    Behavior="Isotropic",
+    Qualifiers={"Definition": "", "Behavior": "Isotropic"})
+matlProp2.SetData(
+    Index=-1,
+    Variables=["Young's Modulus"],
+    Values=[["71700000000 [Pa]"]])
+matlProp2.SetData(
+    Variables=["Poisson's Ratio"],
+    Values=[["0.3"]])
+Save(Overwrite=True)
+EngData.EnableFilter(Enable=False)
+EngData.EnableFilter()
+geometry3 = system11.GetContainer(ComponentName="Geometry")
+geometry3.Edit()
+geometry3.Exit()
+modelComponent2 = system11.GetComponent(Name="Model")
+modelComponent2.Refresh()
+model4.Edit()
+Save(Overwrite=True)
+Save(Overwrite=True)
+system10.Delete()
+matlProp2.SetData(
+    Variables=["Young's Modulus"],
+    Values=[["1000000000 [Pa]"]])
+Save(Overwrite=True)
+EngData.EnableFilter(Enable=False)
+EngData.EnableFilter()
+model1.Exit()
+geometry4 = system1.GetContainer(ComponentName="Geometry")
+geometry4.Edit()
+system12 = GetSystem(Name="SYS")
+engineeringData3 = system12.GetContainer(ComponentName="Engineering Data")
+matl3 = engineeringData3.CreateMaterial(Name="torsinalMy")
+matlProp3 = matl3.CreateProperty(
+    Name="Elasticity",
+    Behavior="Isotropic",
+    Qualifiers={"Definition": "", "Behavior": "Isotropic"})
+matlProp3.SetData(
+    Index=-1,
+    Variables=["Young's Modulus"],
+    Values=[["1000000000 [Pa]"]])
+matlProp3.SetData(
+    Variables=["Poisson's Ratio"],
+    Values=[["0.3"]])
+Save(Overwrite=True)
+modelComponent3 = system1.GetComponent(Name="Model")
+modelComponent3.Refresh()
+model1.Edit()
+geometry4.Exit()
+geometry3.Edit()
+Save(Overwrite=True)
+model1.Exit()
+model1.Edit()
+Save(Overwrite=True)
+Save(Overwrite=True)

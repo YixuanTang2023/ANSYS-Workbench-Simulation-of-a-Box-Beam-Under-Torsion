@@ -1,0 +1,148 @@
+# encoding: utf-8
+# 2020 R1
+SetScriptVersion(Version="20.1.164")
+template1 = GetTemplate(
+    TemplateName="Static Structural",
+    Solver="ANSYS")
+system1 = template1.CreateSystem()
+engineeringData1 = system1.GetContainer(ComponentName="Engineering Data")
+matl1 = engineeringData1.CreateMaterial(Name="PRICETON")
+matlProp1 = matl1.CreateProperty(
+    Name="Elasticity",
+    Behavior="Isotropic",
+    Qualifiers={"Definition": "", "Behavior": "Isotropic"})
+matlProp1.SetData(
+    Index=-1,
+    Variables=["Young's Modulus"],
+    Values=[["71700000000 [Pa]"]])
+matlProp1.SetData(
+    Variables=["Poisson's Ratio"],
+    Values=[["0.31"]])
+geometry1 = system1.GetContainer(ComponentName="Geometry")
+geometry1.Edit()
+geometry1.Exit()
+modelComponent1 = system1.GetComponent(Name="Model")
+modelComponent1.Refresh()
+model1 = system1.GetContainer(ComponentName="Model")
+model1.Edit()
+model1.Exit()
+model1.Edit()
+Save(Overwrite=True)
+model1.Exit()
+geometry1.Edit()
+model1.Edit()
+geometry1.Exit()
+Save(Overwrite=True)
+system1.Copy(KeepConnections=True)
+system2 = GetSystem(Name="SYS 1")
+geometryComponent1 = system2.GetComponent(Name="Geometry")
+geometryComponent1.Reset()
+geometry2 = system2.GetContainer(ComponentName="Geometry")
+geometry2.Edit(IsSpaceClaimGeometry=True)
+geometry2.Exit()
+geometry2.Edit()
+geometry2.Exit()
+model1.Exit()
+modelComponent2 = system2.GetComponent(Name="Model")
+modelComponent2.Refresh()
+model2 = system2.GetContainer(ComponentName="Model")
+model2.Edit()
+system2.Copy(KeepConnections=True)
+system3 = GetSystem(Name="SYS 2")
+model3 = system3.GetContainer(ComponentName="Model")
+model3.Edit()
+model3.Exit()
+model2.Exit()
+system3.Delete()
+system2.Delete()
+system4 = template1.CreateSystem(
+    Position="Right",
+    RelativeTo=system1)
+engineeringDataComponent1 = system4.GetComponent(Name="Engineering Data")
+engineeringDataComponent2 = system1.GetComponent(Name="Engineering Data")
+engineeringDataComponent1.ReplaceWithShare(
+    TargetSystem=system4,
+    ComponentToShare=engineeringDataComponent2,
+    SourceSystem=system1)
+geometry3 = system4.GetContainer(ComponentName="Geometry")
+geometry3.Edit(IsSpaceClaimGeometry=True)
+geometry3.Exit()
+geometry3.Edit()
+geometry3.Exit()
+modelComponent3 = system4.GetComponent(Name="Model")
+modelComponent3.Refresh()
+model4 = system4.GetContainer(ComponentName="Model")
+model4.Edit()
+model4.Edit()
+model4.Edit()
+geometry3.Edit()
+Save(Overwrite=True)
+model4.Edit()
+Save(Overwrite=True)
+ClearMessages()
+Save(Overwrite=True)
+model4.Edit()
+modelComponent3.Reset()
+modelComponent3.Refresh()
+model4.Edit()
+Save(Overwrite=True)
+model4.Exit()
+Save(Overwrite=True)
+model1.Edit()
+geometry3.Exit()
+model4.Edit()
+model4.Exit()
+model4.Edit()
+Save(Overwrite=True)
+Save(Overwrite=True)
+model4.Exit()
+modelComponent3.Clean()
+model4.Edit()
+model4.Exit()
+geometry3.Edit()
+model4.Edit(StartAsReadOnly=True)
+model4.Exit()
+system1.Copy(KeepConnections=True)
+system5 = GetSystem(Name="SYS 2")
+model5 = system5.GetContainer(ComponentName="Model")
+model5.Edit()
+modelComponent3.Clean()
+system6 = template1.CreateSystem(
+    Position="Right",
+    RelativeTo=system5)
+model4.Edit()
+engineeringDataComponent3 = system6.GetComponent(Name="Engineering Data")
+engineeringDataComponent3.ReplaceWithShare(
+    TargetSystem=system6,
+    ComponentToShare=engineeringDataComponent2,
+    SourceSystem=system1)
+geometryComponent2 = system6.GetComponent(Name="Geometry")
+geometryComponent3 = system4.GetComponent(Name="Geometry")
+geometryComponent2.ReplaceWithShare(
+    TargetSystem=system6,
+    ComponentToShare=geometryComponent3,
+    SourceSystem=system4)
+modelComponent4 = system6.GetComponent(Name="Model")
+modelComponent4.Refresh()
+model6 = system6.GetContainer(ComponentName="Model")
+model6.Edit()
+model4.Edit()
+model1.Edit()
+system7 = template1.CreateSystem(
+    Position="Right",
+    RelativeTo=system5)
+engineeringDataComponent4 = system7.GetComponent(Name="Engineering Data")
+engineeringDataComponent5 = system5.GetComponent(Name="Engineering Data")
+engineeringDataComponent4.ReplaceWithShare(
+    TargetSystem=system7,
+    ComponentToShare=engineeringDataComponent5,
+    SourceSystem=system5)
+geometry4 = system7.GetContainer(ComponentName="Geometry")
+geometry4.Edit()
+geometry4.Exit()
+modelComponent5 = system7.GetComponent(Name="Model")
+modelComponent5.Refresh()
+model7 = system7.GetContainer(ComponentName="Model")
+model7.Edit()
+geometry3.Exit()
+Save(Overwrite=True)
