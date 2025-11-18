@@ -1,0 +1,930 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Storage>
+  <Project Version="9.1">
+    <base-designpoint-name valType="String">0</base-designpoint-name>
+    <timestamp-max valType="Int64">104289</timestamp-max>
+    <framework-build-version valType="String">20.1.164.0</framework-build-version>
+    <external-version-string valType="String">2020 R1</external-version-string>
+    <last-saved-utc valType="String">11/18/2025 12:35:47</last-saved-utc>
+    <managed-categories valType="String">[report, misc, progress]</managed-categories>
+    <logHistory valType="StringArray">
+      <ArrayEntry Index="0">TYX@TYX-PC:C:\Users\TYX\AppData\Local\Temp\WorkbenchLogs\CoreEvents9516.log</ArrayEntry>
+      <ArrayEntry Index="1">TYX@TYX-PC:C:\Users\TYX\AppData\Local\Temp\WorkbenchLogs\CoreEvents16636.log</ArrayEntry>
+      <ArrayEntry Index="2">TYX@TYX-PC:C:\Users\TYX\AppData\Local\Temp\WorkbenchLogs\CoreEvents8184.log</ArrayEntry>
+      <ArrayEntry Index="3">TYX@TYX-PC:C:\Users\TYX\AppData\Local\Temp\WorkbenchLogs\CoreEvents17248.log</ArrayEntry>
+      <ArrayEntry Index="4">TYX@TYX-PC:C:\Users\TYX\AppData\Local\Temp\WorkbenchLogs\CoreEvents3716.log</ArrayEntry>
+      <ArrayEntry Index="5">TYX@TYX-PC:C:\Users\TYX\AppData\Local\Temp\WorkbenchLogs\CoreEvents2196.log</ArrayEntry>
+      <ArrayEntry Index="6">TYX@TYX-PC:C:\Users\TYX\AppData\Local\Temp\WorkbenchLogs\CoreEvents4956.log</ArrayEntry>
+      <ArrayEntry Index="7">TYX@TYX-PC:C:\Users\TYX\AppData\Local\Temp\WorkbenchLogs\CoreEvents4672.log</ArrayEntry>
+      <ArrayEntry Index="8">TYX@TYX-PC:C:\Users\TYX\AppData\Local\Temp\WorkbenchLogs\CoreEvents7956.log</ArrayEntry>
+      <ArrayEntry Index="9">TYX@TYX-PC:C:\Users\TYX\AppData\Local\Temp\WorkbenchLogs\CoreEvents14720.log</ArrayEntry>
+      <ArrayEntry Index="10">TYX@TYX-PC:C:\Users\TYX\AppData\Local\Temp\WorkbenchLogs\CoreEvents18824.log</ArrayEntry>
+      <ArrayEntry Index="11">TYX@TYX-PC:C:\Users\TYX\AppData\Local\Temp\WorkbenchLogs\CoreEvents4292.log</ArrayEntry>
+      <ArrayEntry Index="12">TYX@TYX-PC:C:\Users\TYX\AppData\Local\Temp\WorkbenchLogs\CoreEvents2836.log</ArrayEntry>
+      <ArrayEntry Index="13">TYX@TYX-PC:C:\Users\TYX\AppData\Local\Temp\WorkbenchLogs\CoreEvents5716.log</ArrayEntry>
+      <ArrayEntry Index="14">TYX@TYX-PC:C:\Users\TYX\AppData\Local\Temp\WorkbenchLogs\CoreEvents5840.log</ArrayEntry>
+      <ArrayEntry Index="15">TYX@TYX-PC:C:\Users\TYX\AppData\Local\Temp\WorkbenchLogs\CoreEvents584.log</ArrayEntry>
+      <ArrayEntry Index="16">TYX@TYX-PC:C:\Users\TYX\AppData\Local\Temp\WorkbenchLogs\CoreEvents6604.log</ArrayEntry>
+      <ArrayEntry Index="17">TYX@TYX-PC:C:\Users\TYX\AppData\Local\Temp\WorkbenchLogs\CoreEvents4304.log</ArrayEntry>
+      <ArrayEntry Index="18">TYX@TYX-PC:C:\Users\TYX\AppData\Local\Temp\WorkbenchLogs\CoreEvents9928.log</ArrayEntry>
+      <ArrayEntry Index="19">TYX@TYX-PC:C:\Users\TYX\AppData\Local\Temp\WorkbenchLogs\CoreEvents5036.log</ArrayEntry>
+      <ArrayEntry Index="20">TYX@TYX-PC:C:\Users\TYX\AppData\Local\Temp\WorkbenchLogs\CoreEvents880.log</ArrayEntry>
+      <ArrayEntry Index="21">Yixuan Tang@LAPTOP-KNQ1MPKN:C:\Users\Yixuan Tang\AppData\Local\Temp\WorkbenchLogs\CoreEvents17884.log</ArrayEntry>
+      <ArrayEntry Index="22">Yixuan Tang@LAPTOP-KNQ1MPKN:C:\Users\Yixuan Tang\AppData\Local\Temp\WorkbenchLogs\CoreEvents20488.log</ArrayEntry>
+      <ArrayEntry Index="23">Yixuan Tang@LAPTOP-KNQ1MPKN:C:\Users\Yixuan Tang\AppData\Local\Temp\WorkbenchLogs\CoreEvents6788.log</ArrayEntry>
+      <ArrayEntry Index="24">Yixuan Tang@LAPTOP-KNQ1MPKN:C:\Users\Yixuan Tang\AppData\Local\Temp\WorkbenchLogs\CoreEvents20752.log</ArrayEntry>
+      <ArrayEntry Index="25">Yixuan Tang@LAPTOP-KNQ1MPKN:C:\Users\Yixuan Tang\AppData\Local\Temp\WorkbenchLogs\CoreEvents25120.log</ArrayEntry>
+      <ArrayEntry Index="26">Yixuan Tang@LAPTOP-KNQ1MPKN:C:\Users\Yixuan Tang\AppData\Local\Temp\WorkbenchLogs\CoreEvents19716.log</ArrayEntry>
+      <ArrayEntry Index="27">Yixuan Tang@LAPTOP-KNQ1MPKN:C:\Users\Yixuan Tang\AppData\Local\Temp\WorkbenchLogs\CoreEvents6484.log</ArrayEntry>
+      <ArrayEntry Index="28">Yixuan Tang@LAPTOP-KNQ1MPKN:C:\Users\Yixuan Tang\AppData\Local\Temp\WorkbenchLogs\CoreEvents29608.log</ArrayEntry>
+      <ArrayEntry Index="29">Yixuan Tang@LAPTOP-KNQ1MPKN:C:\Users\Yixuan Tang\AppData\Local\Temp\WorkbenchLogs\CoreEvents8968.log</ArrayEntry>
+      <ArrayEntry Index="30">Yixuan Tang@LAPTOP-KNQ1MPKN:C:\Users\Yixuan Tang\AppData\Local\Temp\WorkbenchLogs\CoreEvents23408.log</ArrayEntry>
+      <ArrayEntry Index="31">Yixuan Tang@LAPTOP-KNQ1MPKN:C:\Users\Yixuan Tang\AppData\Local\Temp\WorkbenchLogs\CoreEvents21168.log</ArrayEntry>
+    </logHistory>
+    <expression-scope-container valType="String">Parameters</expression-scope-container>
+    <project-type valType="String">WB2</project-type>
+    <ReferenceCache>
+      <ProjectReferenceList>
+        <ReferenceList valType="String">{
+"81ad00f1-f332-4ec3-a9c7-6970154da428": "/FileContainer/FileReference:F2",
+"c3056253-48ca-4d73-a410-bda44dd57217": "/FileContainer/FileReference:F6",
+"5f468806-ed38-48e3-bd71-33844c443107": "/FileTypesContainer/FileType:GeometryFileType",
+"09bb0a2a-2c73-4985-b14d-d2a642a660b6": "/FileTypesContainer/FileType:EngineeringData",
+"7f2130dd-6a30-4ce0-a886-b8987a43df43": "/FileTypesContainer/FileType:MechanicalFileType",
+"ffa57836-818f-474f-bb55-7144cb050fd7": "/FileTypesContainer/FileType:project",
+"ea15f3d4-3c6e-43bd-a4e2-765eaeecf0a6": "/Schematic/Template:Static Structural (ANSYS)",
+"a8fe542e-8f6e-4a4c-bf23-3306fc5416e8": "/Schematic/Template:Steady-State Thermal (ANSYS)",
+"00230714-a0fe-418f-9f32-7abd05be25b9": "/Schematic/Template:Modal (ANSYS)",
+"943b2047-10f6-4a25-b29d-cbb01497f0af": "/Schematic/Template:Random Vibration (ANSYS)",
+"e4731a21-3825-47f4-8a37-2254c75d65e1": "/Schematic/Template:Response Spectrum (ANSYS)",
+"a217d601-bfba-465b-84c9-ed669f8e26a8": "/Schematic/ComponentTemplate:EngDataCellTemplate",
+"2648bda9-e271-4062-a939-aef108ce0792": "/Schematic/ComponentTemplate:GeometryCellTemplate",
+"cb6dab73-9b66-4312-80b6-c77d9f4819df": "/Schematic/ComponentTemplate:SimulationModelCellTemplate",
+"bc55f925-c225-459c-9dd4-4a8467021f4f": "/Schematic/ComponentTemplate:SimulationSetupCellTemplate_StructuralStaticANSYS",
+"8c0989df-240c-4e70-ad3b-c3c13e4aded6": "/Schematic/ComponentTemplate:SimulationSolutionCellTemplate_StructuralStaticANSYS",
+"d146fb8b-6b7d-4116-bbdd-726d00468708": "/Schematic/ComponentTemplate:SimulationResultsCellTemplate_StructuralStaticANSYS",
+"cb486614-ec2a-4a34-b665-c07abc78468d": "/FileContainer/FileReference:F31",
+"a38a7d85-d1fc-4f8a-9fc3-51d23475ec89": "/FileContainer/FileReference:F24",
+"239d7742-e07d-46c0-ac45-48ab64478310": "/Schematic/ComponentTemplate:ExternalModelSetupCellTemplate",
+"c0138bf3-8206-4527-a532-1bf17593517d": "/Schematic/Template:External Model",
+"a0be400b-cece-4d04-b2de-a530c64156c0": "/FileContainer/FileReference:F36",
+"832c9a4a-8e3f-42d8-9019-03ebe67447d3": "/FileContainer/FileReference:F82",
+"ebbffc11-b16f-4678-a943-33c783952059": "/FileContainer/FileReference:F38",
+"83d7316c-02b6-4fe9-9519-3bd7c6370d5c": "/FileContainer/FileReference:F80",
+"353ca6bd-f786-4498-a301-744c7382ff64": "/FileContainer/FileReference:F95",
+"d9d5298d-f7aa-442f-887d-adecb6f8567a": "/FileTypesContainer/FileType:ACTDatabase",
+"5b606fc5-b949-4d95-81f4-e09e1aff2870": "/FileContainer/FileReference:F170",
+"3c3e6a62-96fd-4f0f-acc8-cbd51170e8c3": "/FileContainer/FileReference:F174",
+"e35cd40f-5586-491e-9552-1d40c3669674": "/FileContainer/FileReference:F171",
+"be1c80e8-51b9-4a87-85fd-0a91b8375aa5": "/FileContainer/FileReference:F172",
+"f7a3a84d-8f22-4a2c-906e-fc9d0d523216": "/FileContainer/FileReference:F173",
+"27e3204e-5e38-4a31-b0ea-0cd13a9012dc": "/Schematic/System:SYS 14",
+"c6bfbb95-0209-4739-9a65-c6b37c5daaca": "/Schematic/Component:Engineering Data 14",
+"92604557-f507-41a4-9526-70c376b437da": "/Schematic/Component:Geometry 14",
+"1d07206b-71cc-4690-9185-8933dba327ae": "/Schematic/Component:Model 14",
+"5b413f28-c099-4534-9496-b65945d71bf6": "/Schematic/Component:Setup 14",
+"ecc293e6-0deb-4837-a725-8a8e9b156955": "/Schematic/Component:Solution 14",
+"efa7e61e-7c69-4386-835d-072a18f360aa": "/Schematic/Component:Results 14"
+}</ReferenceList>
+      </ProjectReferenceList>
+      <DesignPointReferenceListCollection>
+        <DesignPointReferenceList Name="0">
+          <ReferenceList valType="String">{
+"b1e505b1-1eb1-4246-b838-9bbed01d451e": "/Engineering Data 14/ResourceTransferData:TransferData_material",
+"f91874cb-caec-482a-8562-a04bfd43ff3a": "/Engineering Data 14/Material:torsional",
+"d0f63dd2-1d72-4fe7-83c6-b6fc129a914f": "/Engineering Data 14/MaterialProperty:Appearance",
+"16f652d2-1aa0-4ca5-b843-163ba058ec9c": "/Engineering Data 14/MaterialPropertyData:Color",
+"330021bb-6d2a-4a84-aadf-d2fc6c464a14": "/Engineering Data 14/MaterialVariable:Red",
+"bd8a819b-bae0-46f9-bd34-7c6bda4f515f": "/Engineering Data 14/MaterialVariable:Green",
+"189f8d0d-3249-4f8a-b919-ada19e1d5f80": "/Engineering Data 14/MaterialVariable:Blue",
+"30d21198-b38f-43e0-855b-b6394a36c2c3": "/Engineering Data 14/MaterialProperty:Elasticity",
+"ac946c68-0999-4585-b677-bceca5ec50ce": "/Engineering Data 14/MaterialPropertyData:Elasticity",
+"5443eb9f-b063-4570-9fcb-595b083c7466": "/Engineering Data 14/MaterialVariable:Young's Modulus",
+"a95a2b18-e555-4ce8-8a6c-b8f6f8b862de": "/Engineering Data 14/MaterialVariable:Poisson's Ratio",
+"8abb116c-508a-4a4f-b3d7-426f005182bf": "/Engineering Data 14/MaterialVariable:Bulk Modulus",
+"12ee8f79-c6db-4aea-a0a7-d7b4e2577bf9": "/Engineering Data 14/MaterialVariable:Shear Modulus",
+"ca401da6-f628-4aa0-af1e-d5503dcd6d18": "/Engineering Data 14/MaterialVariable:Temperature",
+"4aa5e2e4-20c4-4397-9e9f-ad5484334984": "/Engineering Data 14/MaterialVariable:Interpolation Options",
+"1c5799c1-32cf-4d87-ba48-6a61592d76ef": "/Engineering Data 14/Material:my",
+"976c4c29-2f27-4f12-96bf-462e025ecbcb": "/Engineering Data 14/MaterialProperty:Appearance 1",
+"30362d1a-0349-4e41-b3ea-c7712543758e": "/Engineering Data 14/MaterialPropertyData:Color 1",
+"72f42834-0962-40fe-bb11-5fec8d20a265": "/Engineering Data 14/MaterialVariable:Red 1",
+"41ecc714-470c-4683-8c58-3ddd295fbb2b": "/Engineering Data 14/MaterialVariable:Green 1",
+"8372ff9a-e848-4646-8dbb-135221293261": "/Engineering Data 14/MaterialVariable:Blue 1",
+"95c2c9ec-ff84-4bf7-b6b0-f13334ad4a70": "/Engineering Data 14/MaterialProperty:Elasticity 1",
+"036fa226-01ad-4db7-ae64-876743a56402": "/Engineering Data 14/MaterialPropertyData:Elasticity 1",
+"9394b61d-278d-4422-93e5-58c49cae200c": "/Engineering Data 14/MaterialVariable:Young's Modulus 1",
+"2eacd655-6298-4b6f-b2d1-856e7b2c3f2a": "/Engineering Data 14/MaterialVariable:Poisson's Ratio 1",
+"fff62c10-eb8c-4b26-b0d8-35eed639ca9d": "/Engineering Data 14/MaterialVariable:Bulk Modulus 1",
+"3b9cbe06-26f9-4a10-856b-44a2e46f1a8d": "/Engineering Data 14/MaterialVariable:Shear Modulus 1",
+"6626ace5-a2c0-40cf-bae1-7143e805f5f7": "/Engineering Data 14/MaterialVariable:Temperature 1",
+"8ae868a1-cb16-4250-8c47-556fdf281b00": "/Engineering Data 14/MaterialVariable:Interpolation Options 1",
+"39dd274c-dcea-4e47-a977-1b88c3413f2e": "/Engineering Data 14/Material:IBeam",
+"35db46e4-57ec-423b-8e13-eb0da293d84f": "/Engineering Data 14/MaterialProperty:Appearance 2",
+"22149eb8-abf5-49e9-80e5-c9722cf107ab": "/Engineering Data 14/MaterialPropertyData:Color 2",
+"179f1228-0741-47e1-a568-91c8105548cb": "/Engineering Data 14/MaterialVariable:Red 2",
+"413e6fb8-4982-4aab-8186-61ca11c6a5c0": "/Engineering Data 14/MaterialVariable:Green 2",
+"7f04bf9c-7e2a-4975-87cd-79063b349975": "/Engineering Data 14/MaterialVariable:Blue 2",
+"15d9f4f7-d025-4578-9e10-e57debea91ca": "/Engineering Data 14/MaterialProperty:Elasticity 2",
+"a12ec0ee-2198-4abe-aa83-ade7933a7d0d": "/Engineering Data 14/MaterialPropertyData:Elasticity 2",
+"cca9cdc4-2455-4805-94f3-2f1f736ed0ea": "/Engineering Data 14/MaterialVariable:Young's Modulus 2",
+"740a5c16-9eb7-4ecc-a623-72942ae520ba": "/Engineering Data 14/MaterialVariable:Poisson's Ratio 2",
+"73e4a76c-8724-43f5-a5ea-86b125cfc9e4": "/Engineering Data 14/MaterialVariable:Bulk Modulus 2",
+"727852d4-78d0-4a32-8051-dca5b21edb42": "/Engineering Data 14/MaterialVariable:Shear Modulus 2",
+"2ae264b8-515d-454c-8c49-2b02da1695e3": "/Engineering Data 14/MaterialVariable:Temperature 2",
+"44a63599-1ac6-46ab-9398-79282de644be": "/Engineering Data 14/MaterialVariable:Interpolation Options 2",
+"d984563a-bf17-4954-8919-f03d208d8378": "/Results 14/SimulationResults:ResultsObject for Structural|Static|ANSYS",
+"91d4e8ed-eca6-4763-b745-c8152aee21be": "/Model 14/MechanicalModel:MechanicalModel",
+"26028f3f-9870-47ab-a63f-3c67973bb7b7": "/Setup 14/SimulationSetup:SetupObject for Structural|Static|ANSYS",
+"193e6211-c359-4034-b366-546869a498d4": "/Solution 14/SimulationSolution:SolutionObject for Structural|Static|ANSYS",
+"eae69c8c-fac7-4fec-807f-e818e3854674": "/Model 14/SimulationEngineeringData:SimulationEngineeringDataObject",
+"698a82c8-4f1b-4b86-b3fc-29e947d37926": "/Model 14/SimulationModelGeneratedMesh:SimulationModelGeneratedMesh",
+"364180e9-31ca-4f18-a772-284293253a97": "/Model 14/SimulationModelGeneratedPMDB:SimulationModelGeneratedPMDB",
+"06eb7586-c8a4-47db-b81d-5419cf563c2b": "/Model 14/SimulationGeneratedSolidMesh:SimulationGeneratedSolidMesh",
+"3b514c16-6450-4412-ae22-188900c4623c": "/Engineering Data 14/EngineeringData:Engineering Data",
+"bc0bdc1a-5d66-4241-a3ed-761a4a955446": "/Geometry 14/Geometry:GeometryDataObject",
+"765ed752-d547-4ece-9801-ac8109e4131a": "/Results 14/SimulationResultsStlZip:SimulationResultsStlZip",
+"43993ca9-d764-4721-b4ef-b1b656595d16": "/Results 14/TopologyOptimizationResultsCDB:TopologyOptimizationResultsCDB"
+}</ReferenceList>
+        </DesignPointReferenceList>
+      </DesignPointReferenceListCollection>
+    </ReferenceCache>
+  </Project>
+  <Addins>
+    <addin-list valType="String">[Ansys.ParameterManager.ParameterManagerAddin, Ansys.ProjectSchematic.ProjectSchematicAddin, Ansys.ProjectReporting.Addin, Ansys.Graphics.GraphicsAddin, Ansys.Units.Commands.Addin, Ansys.Dpdb.DpdbAddin]</addin-list>
+    <Addin Name="Ansys.ParameterManager.ParameterManagerAddin" Version="7.3" />
+    <Addin Name="Ansys.ProjectSchematic.ProjectSchematicAddin" Version="11.4" />
+    <Addin Name="Ansys.ProjectReporting.Addin" Version="6.0" />
+    <Addin Name="Ansys.Graphics.GraphicsAddin" Version="1.1" />
+    <Addin Name="Ansys.Units.Commands.Addin" Version="7.1" />
+    <Addin Name="Ansys.Dpdb.DpdbAddin" Version="4.0">
+      <is-optional-on-resume valType="Boolean">true</is-optional-on-resume>
+    </Addin>
+  </Addins>
+  <Containers>
+    <container-map valType="String">{"FileContainer": Project:FileContainer, "Messages": Project:Messages, "Parameters": Ansys.ParameterManager.ParameterManagerAddin:parameters, "Schematic": Ansys.ProjectSchematic.ProjectSchematicAddin:Default, "ReportDataContainer": Ansys.ProjectReporting.Addin:ReportDataContainer, "Graphics": Ansys.Graphics.GraphicsAddin:graphics, "Units": Ansys.Units.Commands.Addin:Units, "DpdbContainer": Ansys.Dpdb.DpdbAddin:DpdbContainer}</container-map>
+    <static-container-ids valType="String">{"FileContainer": FileManager, "Parameters": Parameters, "Schematic": Schematic, "ReportDataContainer": ReportDataContainer, "Graphics": Graphics, "Units": Units, "DpdbContainer": DpdbContainer}</static-container-ids>
+    <Container Name="FileContainer" Version="1.0">
+      <container-type valType="String">Project:FileContainer</container-type>
+      <static-id valType="String">FileManager</static-id>
+      <storage-scheme-id valType="String">version-1-format</storage-scheme-id>
+      <deleted-sources valType="String">[]</deleted-sources>
+      <last-updated valType="Int64">0</last-updated>
+      <last-modified-by-usage valType="String">{"Extrinsic": 103790, "Input": 2439, "Output": 2439}</last-modified-by-usage>
+      <outputs-generated-by-type valType="String">{}</outputs-generated-by-type>
+      <contains-significant-data valType="Boolean">false</contains-significant-data>
+      <Object Name="/FileContainer/FileReference:F2" Version="1.0">
+        <class-type valType="String">FileReference</class-type>
+        <object-name valType="String">F2</object-name>
+        <member-data valType="String">{"DisplayText": "material.engd", "FileType": $$09bb0a2a-2c73-4985-b14d-d2a642a660b6, "DependentFiles": [], "ContainerAssociations": [], "SkipForDesignPointDuplication": False, "IsDeletable": True, "ExternalSource": None, "LastDownloadFromRepository": -1, "Location": r"$(ProjectName)_files\dp0\SYS\ENGD\material.engd", "ReferenceCount": 1}</member-data>
+      </Object>
+      <Object Name="/FileContainer/FileReference:F5" Version="1.0">
+        <class-type valType="String">FileReference</class-type>
+        <object-name valType="String">F5</object-name>
+        <member-data valType="String">{"DisplayText": "IBeam.wbpj", "FileType": $$ffa57836-818f-474f-bb55-7144cb050fd7, "DependentFiles": [], "ContainerAssociations": [], "SkipForDesignPointDuplication": False, "IsDeletable": True, "ExternalSource": None, "LastDownloadFromRepository": -1, "Location": "$(ProjectName).wbpj", "ReferenceCount": 1}</member-data>
+      </Object>
+      <Object Name="/FileContainer/FileReference:F6" Version="1.0">
+        <class-type valType="String">FileReference</class-type>
+        <object-name valType="String">F6</object-name>
+        <member-data valType="String">{"DisplayText": "EngineeringData.xml", "FileType": $$09bb0a2a-2c73-4985-b14d-d2a642a660b6, "DependentFiles": [], "ContainerAssociations": [], "SkipForDesignPointDuplication": False, "IsDeletable": True, "ExternalSource": None, "LastDownloadFromRepository": -1, "Location": r"$(ProjectName)_files\dp0\SYS\ENGD\EngineeringData.xml", "ReferenceCount": 2}</member-data>
+      </Object>
+      <Object Name="/FileContainer/FileReference:F80" Version="1.0">
+        <class-type valType="String">FileReference</class-type>
+        <object-name valType="String">F80</object-name>
+        <member-data valType="String">{"DisplayText": "SYS-18.mechdb", "FileType": $$7f2130dd-6a30-4ce0-a886-b8987a43df43, "DependentFiles": [], "ContainerAssociations": [], "SkipForDesignPointDuplication": False, "IsDeletable": True, "ExternalSource": None, "LastDownloadFromRepository": -1, "Location": r"$(ProjectName)_files\dp0\global\MECH\SYS-18.mechdb", "ReferenceCount": 1}</member-data>
+      </Object>
+      <Object Name="/FileContainer/FileReference:F24" Version="1.0">
+        <class-type valType="String">FileReference</class-type>
+        <object-name valType="String">F24</object-name>
+        <member-data valType="String">{"DisplayText": "EngineeringData.xml", "FileType": $$09bb0a2a-2c73-4985-b14d-d2a642a660b6, "DependentFiles": [], "ContainerAssociations": [], "SkipForDesignPointDuplication": False, "IsDeletable": True, "ExternalSource": None, "LastDownloadFromRepository": -1, "Location": r"$(ProjectName)_files\dp0\SYS-8\ENGD\EngineeringData.xml", "ReferenceCount": 1}</member-data>
+      </Object>
+      <Object Name="/FileContainer/FileReference:F31" Version="1.0">
+        <class-type valType="String">FileReference</class-type>
+        <object-name valType="String">F31</object-name>
+        <member-data valType="String">{"DisplayText": "material.engd", "FileType": $$09bb0a2a-2c73-4985-b14d-d2a642a660b6, "DependentFiles": [], "ContainerAssociations": [], "SkipForDesignPointDuplication": False, "IsDeletable": True, "ExternalSource": None, "LastDownloadFromRepository": -1, "Location": r"$(ProjectName)_files\dp0\SYS-9\ENGD\material.engd", "ReferenceCount": 1}</member-data>
+      </Object>
+      <Object Name="/FileContainer/FileReference:F36" Version="1.0">
+        <class-type valType="String">FileReference</class-type>
+        <object-name valType="String">F36</object-name>
+        <member-data valType="String">{"DisplayText": "EngineeringData.xml", "FileType": $$09bb0a2a-2c73-4985-b14d-d2a642a660b6, "DependentFiles": [], "ContainerAssociations": [], "SkipForDesignPointDuplication": False, "IsDeletable": True, "ExternalSource": None, "LastDownloadFromRepository": -1, "Location": r"$(ProjectName)_files\dp0\SYS-10\ENGD\EngineeringData.xml", "ReferenceCount": 1}</member-data>
+      </Object>
+      <Object Name="/FileContainer/FileReference:F38" Version="1.0">
+        <class-type valType="String">FileReference</class-type>
+        <object-name valType="String">F38</object-name>
+        <member-data valType="String">{"DisplayText": "material.engd", "FileType": $$09bb0a2a-2c73-4985-b14d-d2a642a660b6, "DependentFiles": [], "ContainerAssociations": [], "SkipForDesignPointDuplication": False, "IsDeletable": True, "ExternalSource": None, "LastDownloadFromRepository": -1, "Location": r"$(ProjectName)_files\dp0\SYS-10\ENGD\material.engd", "ReferenceCount": 1}</member-data>
+      </Object>
+      <Object Name="/FileContainer/FileReference:F82" Version="1.0">
+        <class-type valType="String">FileReference</class-type>
+        <object-name valType="String">F82</object-name>
+        <member-data valType="String">{"DisplayText": "material.engd", "FileType": $$09bb0a2a-2c73-4985-b14d-d2a642a660b6, "DependentFiles": [], "ContainerAssociations": [], "SkipForDesignPointDuplication": False, "IsDeletable": True, "ExternalSource": None, "LastDownloadFromRepository": -1, "Location": r"$(ProjectName)_files\dp0\SYS-19\ENGD\material.engd", "ReferenceCount": 1}</member-data>
+      </Object>
+      <Object Name="/FileContainer/FileReference:F95" Version="1.0">
+        <class-type valType="String">FileReference</class-type>
+        <object-name valType="String">F95</object-name>
+        <member-data valType="String">{"DisplayText": "EngineeringData.xml", "FileType": $$09bb0a2a-2c73-4985-b14d-d2a642a660b6, "DependentFiles": [], "ContainerAssociations": [], "SkipForDesignPointDuplication": False, "IsDeletable": True, "ExternalSource": None, "LastDownloadFromRepository": -1, "Location": r"$(ProjectName)_files\dp0\SYS-20\ENGD\EngineeringData.xml", "ReferenceCount": 1}</member-data>
+      </Object>
+      <Object Name="/FileContainer/FileReference:F150" Version="1.0">
+        <class-type valType="String">FileReference</class-type>
+        <object-name valType="String">F150</object-name>
+        <member-data valType="String">{"DisplayText": "act.dat", "FileType": $$d9d5298d-f7aa-442f-887d-adecb6f8567a, "DependentFiles": [], "ContainerAssociations": [], "SkipForDesignPointDuplication": False, "IsDeletable": True, "ExternalSource": None, "LastDownloadFromRepository": -1, "Location": r"$(ProjectName)_files\dp0\act.dat", "ReferenceCount": 21}</member-data>
+      </Object>
+      <Object Name="/FileContainer/FileReference:F170" Version="1.0">
+        <class-type valType="String">FileReference</class-type>
+        <object-name valType="String">F170</object-name>
+        <member-data valType="String">{"DisplayText": "material.engd", "FileType": $$09bb0a2a-2c73-4985-b14d-d2a642a660b6, "DependentFiles": [], "ContainerAssociations": ["Engineering Data 14"], "SkipForDesignPointDuplication": False, "IsDeletable": True, "ExternalSource": None, "LastDownloadFromRepository": -1, "Location": r"$(ProjectName)_files\dp0\SYS-32\ENGD\material.engd", "ReferenceCount": 1}</member-data>
+      </Object>
+      <Object Name="/FileContainer/FileReference:F171" Version="1.0">
+        <class-type valType="String">FileReference</class-type>
+        <object-name valType="String">F171</object-name>
+        <member-data valType="String">{"DisplayText": "SYS-32.agdb", "FileType": $$5f468806-ed38-48e3-bd71-33844c443107, "DependentFiles": [], "ContainerAssociations": ["Geometry 14"], "SkipForDesignPointDuplication": False, "IsDeletable": True, "ExternalSource": None, "LastDownloadFromRepository": -1, "Location": r"$(ProjectName)_files\dp0\SYS-32\DM\SYS-32.agdb", "ReferenceCount": 1}</member-data>
+      </Object>
+      <Object Name="/FileContainer/FileReference:F172" Version="1.0">
+        <class-type valType="String">FileReference</class-type>
+        <object-name valType="String">F172</object-name>
+        <member-data valType="String">{"DisplayText": "SYS-32.engd", "FileType": $$09bb0a2a-2c73-4985-b14d-d2a642a660b6, "DependentFiles": [], "ContainerAssociations": ["Model 14"], "SkipForDesignPointDuplication": False, "IsDeletable": True, "ExternalSource": None, "LastDownloadFromRepository": -1, "Location": r"$(ProjectName)_files\dp0\global\MECH\SYS-32.engd", "ReferenceCount": 1}</member-data>
+      </Object>
+      <Object Name="/FileContainer/FileReference:F173" Version="1.0">
+        <class-type valType="String">FileReference</class-type>
+        <object-name valType="String">F173</object-name>
+        <member-data valType="String">{"DisplayText": "SYS-32.mechdb", "FileType": None, "DependentFiles": [], "ContainerAssociations": ["Setup 14", "Model 14"], "SkipForDesignPointDuplication": False, "IsDeletable": True, "ExternalSource": None, "LastDownloadFromRepository": -1, "Location": r"$(ProjectName)_files\dp0\global\MECH\SYS-32.mechdb", "ReferenceCount": 1}</member-data>
+      </Object>
+      <Object Name="/FileContainer/FileReference:F174" Version="1.0">
+        <class-type valType="String">FileReference</class-type>
+        <object-name valType="String">F174</object-name>
+        <member-data valType="String">{"DisplayText": "EngineeringData.xml", "FileType": $$09bb0a2a-2c73-4985-b14d-d2a642a660b6, "DependentFiles": [], "ContainerAssociations": ["Engineering Data 14"], "SkipForDesignPointDuplication": False, "IsDeletable": True, "ExternalSource": None, "LastDownloadFromRepository": -1, "Location": r"$(ProjectName)_files\dp0\SYS-32\ENGD\EngineeringData.xml", "ReferenceCount": 1}</member-data>
+      </Object>
+    </Container>
+    <Container Name="Messages" Version="1.0">
+      <container-type valType="String">Project:Messages</container-type>
+      <storage-scheme-id valType="String">version-1-format</storage-scheme-id>
+      <deleted-sources valType="String">[]</deleted-sources>
+      <last-updated valType="Int64">0</last-updated>
+      <last-modified-by-usage valType="String">{"Extrinsic": 93434, "Input": 2440, "Output": 2440}</last-modified-by-usage>
+      <outputs-generated-by-type valType="String">{}</outputs-generated-by-type>
+      <contains-significant-data valType="Boolean">false</contains-significant-data>
+      <Object Name="/Messages/StoredMessage:Message 1" Version="1.0">
+        <class-type valType="String">StoredMessage</class-type>
+        <object-name valType="String">Message 1</object-name>
+        <member-data valType="String">{"DisplayText": "Message", "MessageType": "Information", "MessageCategory": "None", "Summary": r"An editor switch was made for component 'Geometry 4' involving the file 'D:\.Ansys_files.backup\Priceton\01_files\dp0\SYS-4\DM\SYS-4.scdoc'.  All parameters for this component, if any, have been cleared.", "Details": None, "Association": "", "DateTimeStamp": 06/06/2021 11:08:23, "Visibility": "Information", "MessageSourceContainer": None, "MessageSourceEntity": None, "AdditionalMessageData": None, "DesignPoint": None}</member-data>
+      </Object>
+      <Object Name="/Messages/StoredMessage:Message" Version="1.0">
+        <class-type valType="String">StoredMessage</class-type>
+        <object-name valType="String">Message</object-name>
+        <member-data valType="String">{"DisplayText": "Message", "MessageType": "Information", "MessageCategory": "None", "Summary": r"An editor switch was made for component 'Geometry 4' involving the file 'D:\.Ansys_files.backup\Priceton\01_files\dp0\SYS-4\DM\SYS-4.scdoc'.  All parameters for this component, if any, have been cleared.", "Details": None, "Association": "", "DateTimeStamp": 06/06/2021 11:01:32, "Visibility": "Information", "MessageSourceContainer": None, "MessageSourceEntity": None, "AdditionalMessageData": None, "DesignPoint": None}</member-data>
+      </Object>
+      <Object Name="/Messages/StoredMessage:Message 2" Version="1.0">
+        <class-type valType="String">StoredMessage</class-type>
+        <object-name valType="String">Message 2</object-name>
+        <member-data valType="String">{"DisplayText": "Message", "MessageType": "Error", "MessageCategory": "None", "Summary": "PlugIn Error:  No valid bodies found.", "Details": None, "Association": "", "DateTimeStamp": 08/24/2021 20:01:18, "Visibility": "Information", "MessageSourceContainer": None, "MessageSourceEntity": None, "AdditionalMessageData": None, "DesignPoint": None}</member-data>
+      </Object>
+      <Object Name="/Messages/StoredMessage:Message 3" Version="1.0">
+        <class-type valType="String">StoredMessage</class-type>
+        <object-name valType="String">Message 3</object-name>
+        <member-data valType="String">{"DisplayText": "Message", "MessageType": "Error", "MessageCategory": "None", "Summary": "PlugIn Error: Attach failed.", "Details": None, "Association": "", "DateTimeStamp": 08/24/2021 20:01:18, "Visibility": "Information", "MessageSourceContainer": None, "MessageSourceEntity": None, "AdditionalMessageData": None, "DesignPoint": None}</member-data>
+      </Object>
+      <Object Name="/Messages/StoredMessage:Message 4" Version="1.0">
+        <class-type valType="String">StoredMessage</class-type>
+        <object-name valType="String">Message 4</object-name>
+        <member-data valType="String">{"DisplayText": "Message", "MessageType": "Error", "MessageCategory": "None", "Summary": "PlugIn Error: Attach failed.", "Details": None, "Association": "", "DateTimeStamp": 08/24/2021 20:01:18, "Visibility": "Information", "MessageSourceContainer": None, "MessageSourceEntity": None, "AdditionalMessageData": None, "DesignPoint": None}</member-data>
+      </Object>
+      <Object Name="/Messages/StoredMessage:Message 5" Version="1.0">
+        <class-type valType="String">StoredMessage</class-type>
+        <object-name valType="String">Message 5</object-name>
+        <member-data valType="String">{"DisplayText": "Message", "MessageType": "Error", "MessageCategory": "None", "Summary": "PlugIn Error:  No valid bodies found.", "Details": None, "Association": "", "DateTimeStamp": 08/24/2021 20:01:18, "Visibility": "Information", "MessageSourceContainer": None, "MessageSourceEntity": None, "AdditionalMessageData": None, "DesignPoint": None}</member-data>
+      </Object>
+      <Object Name="/Messages/StoredMessage:Message 6" Version="1.0">
+        <class-type valType="String">StoredMessage</class-type>
+        <object-name valType="String">Message 6</object-name>
+        <member-data valType="String">{"DisplayText": "Message", "MessageType": "Error", "MessageCategory": "None", "Summary": r"Unable to attach to geometry file D:\.Ansys_files.backup\Priceton\01_files\dp0\SYS-9\DM\SYS-9.agdb. Unable to attach geometry.", "Details": """System.Exception: Unable to attach to geometry file D:\\.Ansys_files.backup\\Priceton\\01_files\\dp0\\SYS-9\\DM\\SYS-9.agdb. Unable to attach geometry.
+   at Ansys.Simulation.Core.Commands.RefreshModel.ExecuteCommand(IFullContext context)
+   at Ansys.Addins.Infrastructure.CommandUtilities.CommandHelper.Execute(IFullContext context)
+   at Ansys.Core.Commands.Concurrency.CommandWorkUnit.executeInContext(CommandContext subContext, IExecutionEngineCallback tracer)
+   at Ansys.Core.Commands.Concurrency.BaseWorkUnit.doExecute(IExecutionEngineCallback executionEngine, CommandContext subContext)
+   at Ansys.Core.Commands.Concurrency.BaseWorkUnit.Execute(IExecutionEngineCallback executionEngine, Boolean dontCatchExceptions)
+--- Ansys.Core.Commands.CommandFailedException: Unable to attach to geometry file D:\\.Ansys_files.backup\\Priceton\\01_files\\dp0\\SYS-9\\DM\\SYS-9.agdb. Unable to attach geometry.
+CommandName: Mechanical.RefreshModel(Container=\"Model 2\", RemainingContainers=[])
+   at Ansys.Core.Commands.CommandAsyncResult.RethrowFailureException(Exception e)
+   at Ansys.Core.Commands.CommandAsyncResult.Wait(Int32 milliSecondsTimeout, Boolean exitContext)
+   at Ansys.ProjectSchematic.Commands.RefreshCommand.RefreshComponents(IFullContext context, IEnumerable`1 componentsToRefresh, Boolean refreshUnfulfilled)
+   at Ansys.Core.Commands.Concurrency.CommandWorkUnit.executeInContext(CommandContext subContext, IExecutionEngineCallback tracer)
+   at Ansys.Core.Commands.Concurrency.BaseWorkUnit.doExecute(IExecutionEngineCallback executionEngine, CommandContext subContext)
+   at Ansys.Core.Commands.Concurrency.BaseWorkUnit.Execute(IExecutionEngineCallback executionEngine, Boolean dontCatchExceptions)
+--- Ansys.Core.Commands.CommandFailedException: Unable to attach to geometry file D:\\.Ansys_files.backup\\Priceton\\01_files\\dp0\\SYS-9\\DM\\SYS-9.agdb. Unable to attach geometry.
+CommandName: RefreshComponent(Component=\"/Schematic/Component:Model 2\")
+   at Ansys.Core.Commands.CommandAsyncResult.RethrowFailureException(Exception e)
+   at Ansys.Core.Commands.CommandAsyncResult.Wait(Int32 milliSecondsTimeout, Boolean exitContext)
+   at Ansys.ProjectSchematic.Commands.RefreshComponentCommand.InvokeAndWait(IProtectedContext context, DataReference Component)
+   at Ansys.Simulation.GUI.EditModelBase.InvokeEditModelOperation(GuiOperationContext context, IGuiOperation guiOperation, DataContainerReference dcr)
+   at Ansys.UI.GuiOperationContext.Invoke(GuiOperationMetaData operationData)
+   at Ansys.UI.UIManager.InvokeOperationCore(String pseudoname, OperationDelegate callback, Boolean allowOSMessages, Boolean coreTransaction, Boolean deferredRefreshOnly)
+""", "Association": "", "DateTimeStamp": 08/24/2021 20:01:22, "Visibility": "Error", "MessageSourceContainer": None, "MessageSourceEntity": None, "AdditionalMessageData": None, "DesignPoint": None}</member-data>
+      </Object>
+      <Object Name="/Messages/StoredMessage:Message 7" Version="1.0">
+        <class-type valType="String">StoredMessage</class-type>
+        <object-name valType="String">Message 7</object-name>
+        <member-data valType="String">{"DisplayText": "Message", "MessageType": "Error", "MessageCategory": "None", "Summary": r"Unable to attach to geometry file D:\.Ansys_files.backup\Priceton\01_files\dp0\SYS-9\DM\SYS-9.agdb. Unable to attach geometry.", "Details": None, "Association": "", "DateTimeStamp": 08/24/2021 20:01:44, "Visibility": "Warning", "MessageSourceContainer": None, "MessageSourceEntity": None, "AdditionalMessageData": None, "DesignPoint": None}</member-data>
+      </Object>
+      <Object Name="/Messages/StoredMessage:Message 8" Version="1.0">
+        <class-type valType="String">StoredMessage</class-type>
+        <object-name valType="String">Message 8</object-name>
+        <member-data valType="String">{"DisplayText": "Message", "MessageType": "Error", "MessageCategory": "None", "Summary": r"Unable to attach to geometry file D:\.Ansys_files.backup\Priceton\01_files\dp0\SYS-9\DM\SYS-9.agdb. Unable to attach geometry.", "Details": None, "Association": "", "DateTimeStamp": 08/24/2021 21:04:04, "Visibility": "Warning", "MessageSourceContainer": None, "MessageSourceEntity": None, "AdditionalMessageData": None, "DesignPoint": None}</member-data>
+      </Object>
+      <Object Name="/Messages/StoredMessage:Message 9" Version="1.0">
+        <class-type valType="String">StoredMessage</class-type>
+        <object-name valType="String">Message 9</object-name>
+        <member-data valType="String">{"DisplayText": "Message", "MessageType": "Error", "MessageCategory": "None", "Summary": r"Unable to attach to geometry file D:\.Ansys_files.backup\Priceton\01_files\dp0\SYS-9\DM\SYS-9.agdb. Unable to attach geometry.", "Details": None, "Association": "", "DateTimeStamp": 08/24/2021 21:09:18, "Visibility": "Warning", "MessageSourceContainer": None, "MessageSourceEntity": None, "AdditionalMessageData": None, "DesignPoint": None}</member-data>
+      </Object>
+      <Object Name="/Messages/StoredMessage:Message 10" Version="1.0">
+        <class-type valType="String">StoredMessage</class-type>
+        <object-name valType="String">Message 10</object-name>
+        <member-data valType="String">{"DisplayText": "Message", "MessageType": "Warning", "MessageCategory": "None", "Summary": "Unable to update CAD file path. ", "Details": None, "Association": "", "DateTimeStamp": 08/24/2021 21:30:18, "Visibility": "Information", "MessageSourceContainer": None, "MessageSourceEntity": None, "AdditionalMessageData": None, "DesignPoint": None}</member-data>
+      </Object>
+      <Object Name="/Messages/StoredMessage:Message 11" Version="1.0">
+        <class-type valType="String">StoredMessage</class-type>
+        <object-name valType="String">Message 11</object-name>
+        <member-data valType="String">{"DisplayText": "Message", "MessageType": "Error", "MessageCategory": "None", "Summary": r"Unable to attach to geometry file D:\.Ansys_files.backup\Priceton\01_files\dp0\SYS-9\DM\SYS-9.agdb. Unable to attach geometry.", "Details": None, "Association": "", "DateTimeStamp": 08/24/2021 21:30:26, "Visibility": "Warning", "MessageSourceContainer": None, "MessageSourceEntity": None, "AdditionalMessageData": None, "DesignPoint": None}</member-data>
+      </Object>
+      <Object Name="/Messages/StoredMessage:Message 12" Version="1.0">
+        <class-type valType="String">StoredMessage</class-type>
+        <object-name valType="String">Message 12</object-name>
+        <member-data valType="String">{"DisplayText": "Message", "MessageType": "Error", "MessageCategory": "None", "Summary": r"Unable to attach to geometry file D:\.Ansys_files.backup\Priceton\01_files\dp0\SYS-9\DM\SYS-9.agdb. Unable to attach geometry.", "Details": None, "Association": "", "DateTimeStamp": 08/24/2021 21:53:06, "Visibility": "Warning", "MessageSourceContainer": None, "MessageSourceEntity": None, "AdditionalMessageData": None, "DesignPoint": None}</member-data>
+      </Object>
+      <Object Name="/Messages/StoredMessage:Message 13" Version="1.0">
+        <class-type valType="String">StoredMessage</class-type>
+        <object-name valType="String">Message 13</object-name>
+        <member-data valType="String">{"DisplayText": "Message", "MessageType": "Warning", "MessageCategory": "None", "Summary": "Unable to update CAD file path. ", "Details": None, "Association": "", "DateTimeStamp": 08/26/2021 22:41:37, "Visibility": "Information", "MessageSourceContainer": None, "MessageSourceEntity": None, "AdditionalMessageData": None, "DesignPoint": None}</member-data>
+      </Object>
+      <Object Name="/Messages/StoredMessage:Message 14" Version="1.0">
+        <class-type valType="String">StoredMessage</class-type>
+        <object-name valType="String">Message 14</object-name>
+        <member-data valType="String">{"DisplayText": "Message", "MessageType": "Error", "MessageCategory": "None", "Summary": r"Unable to attach to geometry file D:\.Ansys_files.backup\Priceton\01_files\dp0\SYS-9\DM\SYS-9.agdb. Unable to attach geometry.", "Details": None, "Association": "", "DateTimeStamp": 08/26/2021 22:41:48, "Visibility": "Warning", "MessageSourceContainer": None, "MessageSourceEntity": None, "AdditionalMessageData": None, "DesignPoint": None}</member-data>
+      </Object>
+      <Object Name="/Messages/StoredMessage:Message 15" Version="1.0">
+        <class-type valType="String">StoredMessage</class-type>
+        <object-name valType="String">Message 15</object-name>
+        <member-data valType="String">{"DisplayText": "Message", "MessageType": "Warning", "MessageCategory": "None", "Summary": "Unable to obtain linked environment IDs. 未将对象引用设置到对象的实例。", "Details": None, "Association": "", "DateTimeStamp": 08/26/2021 22:49:02, "Visibility": "Information", "MessageSourceContainer": None, "MessageSourceEntity": None, "AdditionalMessageData": None, "DesignPoint": None}</member-data>
+      </Object>
+      <Object Name="/Messages/StoredMessage:Message 16" Version="1.0">
+        <class-type valType="String">StoredMessage</class-type>
+        <object-name valType="String">Message 16</object-name>
+        <member-data valType="String">{"DisplayText": "Message", "MessageType": "Warning", "MessageCategory": "None", "Summary": "Unable to obtain linked environment IDs. 未将对象引用设置到对象的实例。", "Details": None, "Association": "", "DateTimeStamp": 08/26/2021 22:49:02, "Visibility": "Information", "MessageSourceContainer": None, "MessageSourceEntity": None, "AdditionalMessageData": None, "DesignPoint": None}</member-data>
+      </Object>
+      <Object Name="/Messages/StoredMessage:Message 17" Version="1.0">
+        <class-type valType="String">StoredMessage</class-type>
+        <object-name valType="String">Message 17</object-name>
+        <member-data valType="String">{"DisplayText": "Message", "MessageType": "Error", "MessageCategory": "None", "Summary": r"Mechanical failed to open the database: The Mechanical database file does not exist: D:\.Ansys_files.backup\Priceton\01_files\dp0\global\MECH\SYS-18.mechdb", "Details": None, "Association": "", "DateTimeStamp": 08/26/2021 22:51:56, "Visibility": "Error", "MessageSourceContainer": None, "MessageSourceEntity": None, "AdditionalMessageData": None, "DesignPoint": None}</member-data>
+      </Object>
+      <Object Name="/Messages/StoredMessage:Message 18" Version="1.0">
+        <class-type valType="String">StoredMessage</class-type>
+        <object-name valType="String">Message 18</object-name>
+        <member-data valType="String">{"DisplayText": "Message", "MessageType": "Error", "MessageCategory": "None", "Summary": r"Mechanical failed to open the database: The Mechanical database file does not exist: D:\.Ansys_files.backup\Priceton\01_files\dp0\global\MECH\SYS-18.mechdb", "Details": None, "Association": "", "DateTimeStamp": 08/26/2021 22:52:26, "Visibility": "Error", "MessageSourceContainer": None, "MessageSourceEntity": None, "AdditionalMessageData": None, "DesignPoint": None}</member-data>
+      </Object>
+      <Object Name="/Messages/StoredMessage:Message 19" Version="1.0">
+        <class-type valType="String">StoredMessage</class-type>
+        <object-name valType="String">Message 19</object-name>
+        <member-data valType="String">{"DisplayText": "Message", "MessageType": "Warning", "MessageCategory": "None", "Summary": "Unable to obtain linked environment IDs. 未将对象引用设置到对象的实例。", "Details": None, "Association": "", "DateTimeStamp": 08/26/2021 22:55:38, "Visibility": "Information", "MessageSourceContainer": None, "MessageSourceEntity": None, "AdditionalMessageData": None, "DesignPoint": "0"}</member-data>
+      </Object>
+      <Object Name="/Messages/StoredMessage:Message 20" Version="1.0">
+        <class-type valType="String">StoredMessage</class-type>
+        <object-name valType="String">Message 20</object-name>
+        <member-data valType="String">{"DisplayText": "Message", "MessageType": "Warning", "MessageCategory": "None", "Summary": "Unable to obtain linked environment IDs. 未将对象引用设置到对象的实例。", "Details": None, "Association": "", "DateTimeStamp": 08/26/2021 22:55:38, "Visibility": "Information", "MessageSourceContainer": None, "MessageSourceEntity": None, "AdditionalMessageData": None, "DesignPoint": "0"}</member-data>
+      </Object>
+      <Object Name="/Messages/StoredMessage:Message 21" Version="1.0">
+        <class-type valType="String">StoredMessage</class-type>
+        <object-name valType="String">Message 21</object-name>
+        <member-data valType="String">{"DisplayText": "Message", "MessageType": "Warning", "MessageCategory": "None", "Summary": "Unable to obtain condensed part IDs. 未将对象引用设置到对象的实例。", "Details": None, "Association": "", "DateTimeStamp": 08/26/2021 22:55:38, "Visibility": "Information", "MessageSourceContainer": None, "MessageSourceEntity": None, "AdditionalMessageData": None, "DesignPoint": "0"}</member-data>
+      </Object>
+      <Object Name="/Messages/StoredMessage:Message 22" Version="1.0">
+        <class-type valType="String">StoredMessage</class-type>
+        <object-name valType="String">Message 22</object-name>
+        <member-data valType="String">{"DisplayText": "Message", "MessageType": "Error", "MessageCategory": "None", "Summary": "Update failed for the Model component in Copy of Static Structural.  未将对象引用设置到对象的实例。", "Details": None, "Association": "", "DateTimeStamp": 08/26/2021 22:55:38, "Visibility": "Error", "MessageSourceContainer": None, "MessageSourceEntity": None, "AdditionalMessageData": None, "DesignPoint": None}</member-data>
+      </Object>
+      <Object Name="/Messages/StoredMessage:Message 23" Version="1.0">
+        <class-type valType="String">StoredMessage</class-type>
+        <object-name valType="String">Message 23</object-name>
+        <member-data valType="String">{"DisplayText": "Message", "MessageType": "Error", "MessageCategory": "None", "Summary": r"Mechanical failed to open the database: The Mechanical database file does not exist: D:\.Ansys_files.backup\Priceton\01_files\dp0\global\MECH\SYS-18.mechdb", "Details": None, "Association": "", "DateTimeStamp": 08/26/2021 22:58:59, "Visibility": "Error", "MessageSourceContainer": None, "MessageSourceEntity": None, "AdditionalMessageData": None, "DesignPoint": None}</member-data>
+      </Object>
+      <Object Name="/Messages/StoredMessage:Message 24" Version="1.0">
+        <class-type valType="String">StoredMessage</class-type>
+        <object-name valType="String">Message 24</object-name>
+        <member-data valType="String">{"DisplayText": "Message", "MessageType": "Error", "MessageCategory": "None", "Summary": r"Mechanical failed to open the database: The Mechanical database file does not exist: D:\.Ansys_files.backup\Priceton\01_files\dp0\global\MECH\SYS-18.mechdb", "Details": None, "Association": "", "DateTimeStamp": 08/26/2021 22:59:34, "Visibility": "Error", "MessageSourceContainer": None, "MessageSourceEntity": None, "AdditionalMessageData": None, "DesignPoint": None}</member-data>
+      </Object>
+      <Object Name="/Messages/StoredMessage:Message 25" Version="1.0">
+        <class-type valType="String">StoredMessage</class-type>
+        <object-name valType="String">Message 25</object-name>
+        <member-data valType="String">{"DisplayText": "Message", "MessageType": "Error", "MessageCategory": "None", "Summary": r"Mechanical failed to open the database: The Mechanical database file does not exist: D:\.Ansys_files.backup\Priceton\01_files\dp0\global\MECH\SYS-18.mechdb", "Details": None, "Association": "", "DateTimeStamp": 08/26/2021 23:00:08, "Visibility": "Error", "MessageSourceContainer": None, "MessageSourceEntity": None, "AdditionalMessageData": None, "DesignPoint": None}</member-data>
+      </Object>
+      <Object Name="/Messages/StoredMessage:Message 26" Version="1.0">
+        <class-type valType="String">StoredMessage</class-type>
+        <object-name valType="String">Message 26</object-name>
+        <member-data valType="String">{"DisplayText": "Message", "MessageType": "Error", "MessageCategory": "None", "Summary": "An unexpected error has occurred: A material with the name, torsional, already exists.", "Details": """System.ArgumentException: A material with the name, torsional, already exists.
+   at Ansys.EngineeringData.Commands.CreateMaterial.Execute(IFullContext context)
+   at Ansys.Core.Commands.Concurrency.CommandWorkUnit.executeInContext(CommandContext subContext, IExecutionEngineCallback tracer)
+   at Ansys.Core.Commands.Concurrency.BaseWorkUnit.doExecute(IExecutionEngineCallback executionEngine, CommandContext subContext)
+   at Ansys.Core.Commands.Concurrency.BaseWorkUnit.Execute(IExecutionEngineCallback executionEngine, Boolean dontCatchExceptions)
+--- Ansys.Core.Commands.CommandFailedException: A material with the name, torsional, already exists.
+CommandName: EngData.CreateMaterial(EngDataContainer=\"Engineering Data 4\", Name=\"torsional\")
+   at Ansys.Core.Commands.CommandAsyncResult.RethrowFailureException(Exception e)
+   at Ansys.Core.Commands.CommandAsyncResult.Wait(Int32 milliSecondsTimeout, Boolean exitContext)
+   at Ansys.EngineeringData.Commands.CreateMaterial.InvokeAndWait(IProtectedContext context, DataContainerReference EngDataContainer, String Name)
+   at Ansys.EngineeringData.Gui.Models.OutlineModel.SetCellValue(Row row, Column column, String value)
+   at Ansys.UI.Views.TableView.CommitValuesToModel(GridViewCell cell, Object[,] values)
+   at Ansys.UI.Views.TableView.&lt;&gt;c__DisplayClass48_0.&lt;AfterCellEdit&gt;b__0()
+""", "Association": "", "DateTimeStamp": 08/26/2021 23:15:35, "Visibility": "Error", "MessageSourceContainer": None, "MessageSourceEntity": None, "AdditionalMessageData": None, "DesignPoint": None}</member-data>
+      </Object>
+      <Object Name="/Messages/StoredMessage:Message 27" Version="1.0">
+        <class-type valType="String">StoredMessage</class-type>
+        <object-name valType="String">Message 27</object-name>
+        <member-data valType="String">{"DisplayText": "Message", "MessageType": "Information", "MessageCategory": "None", "Summary": "The Model component in Copy of Copy of IBeam of Static Structural requires user input before it can be updated. For instructions on how to address the cell in its current state, click the blue triangle in the lower right corner of the cell in the Project Schematic.", "Details": None, "Association": "", "DateTimeStamp": 09/09/2021 22:30:58, "Visibility": "Information", "MessageSourceContainer": None, "MessageSourceEntity": None, "AdditionalMessageData": None, "DesignPoint": "0"}</member-data>
+      </Object>
+      <Object Name="/Messages/StoredMessage:Message 28" Version="1.0">
+        <class-type valType="String">StoredMessage</class-type>
+        <object-name valType="String">Message 28</object-name>
+        <member-data valType="String">{"DisplayText": "Message", "MessageType": "Error", "MessageCategory": "None", "Summary": "Unable to duplicate component /Schematic/Component:Model 5: duplication command Mechanical.DuplicateModel failed:  Mechanical is busy in another operation.", "Details": """Ansys.Core.Commands.ApplicationBusyException: 
+
+Server stack trace: 
+   在 Ans.Simulation.RemoteLib.SimulationHelper.CallSimulationWB2APIMethod(SimulationWB2APICallback callback)
+   在 System.Runtime.Remoting.Messaging.StackBuilderSink._PrivateProcessMessage(IntPtr md, Object[] args, Object server, Object[]&amp; outArgs)
+   在 System.Runtime.Remoting.Messaging.StackBuilderSink.SyncProcessMessage(IMessage msg)
+
+Exception rethrown at [0]: 
+   at System.Runtime.Remoting.Proxies.RealProxy.HandleReturnMessage(IMessage reqMsg, IMessage retMsg)
+   at System.Runtime.Remoting.Proxies.RealProxy.PrivateInvoke(MessageData&amp; msgData, Int32 type)
+   at Ans.Simulation.RemoteItf.ISimulationHelper.ThrowBusyExceptionIfMechanicalEditorBusy()
+   at Ansys.Addins.Infrastructure.Remoting.RemotingApiHelper.FatalApiMethodInvalidOperationException(String message, RemotingApiMethod callback)
+--- Ansys.Core.Commands.ApplicationBusyException:  Mechanical is busy in another operation.
+   at Ansys.Addins.Infrastructure.Remoting.RemotingApiHelper.ThrowApplicationBusyException(String message, String currentMethod, Exception innerException)
+   at Ansys.Addins.Infrastructure.Remoting.RemotingApiHelper.FatalApiMethodInvalidOperationException(String message, RemotingApiMethod callback)
+   at Ansys.Simulation.Core.Addin.ThrowBusyExceptionIfMechanicalEditorBusy(IProtectedContext context, DataSourceHelper helper, DataContainerReference curModelContainer)
+   at Ansys.Simulation.Core.Addin.ThrowBusyExceptionIfMechanicalEditorBusy(IProtectedContext context, DataContainerReference container)
+   at Ansys.Simulation.Core.Commands.DuplicateModel.ExecuteCommand(IFullContext context)
+   at Ansys.Addins.Infrastructure.CommandUtilities.CommandHelper.Execute(IFullContext context)
+   at Ansys.Core.Commands.Concurrency.CommandWorkUnit.executeInContext(CommandContext subContext, IExecutionEngineCallback tracer)
+   at Ansys.Core.Commands.Concurrency.BaseWorkUnit.doExecute(IExecutionEngineCallback executionEngine, CommandContext subContext)
+   at Ansys.Core.Commands.Concurrency.BaseWorkUnit.Execute(IExecutionEngineCallback executionEngine, Boolean dontCatchExceptions)
+--- Ansys.Core.Commands.CommandFailedException:  Mechanical is busy in another operation.
+CommandName: Mechanical.DuplicateModel(Name=\"Model 6\", Container=\"Model 5\", UpstreamContainerMap={\"Engineering Data 5\": \"Engineering Data 6\", \"Geometry 5\": \"Geometry 6\"}, CanDestroySourceData=False, AllSystemProperties={\"SystemType\": [\"Static Structural (ANSYS)\"], \"SystemTypeAbbreviation\": [\"SYS\"], \"Solver\": [], \"Physics\": [], \"PhysicsType\": [\"Structural\"], \"AnalysisType\": [\"Static\"], \"SolverType\": [\"ANSYS\"], \"SolverTypeDisplayString\": [\"Mechanical APDL\"], \"PhysicsTypeDisplayString\": [\"Structural\"], \"AnalysisTypeDisplayString\": [\"Static Structural\"], \"SystemName\": [\"Static Structural (ANSYS)\"], \"IsCreated\": [\"True\"], \"AlreadyInSystem\": [\"Yes\"], \"VOLATILE:SystemName\": [\"SYS 4\"], \"UniqueSystemDirectoryName\": [\"SYS-25\"]})
+   at Ansys.Core.Commands.CommandAsyncResult.RethrowFailureException(Exception e)
+   at Ansys.Core.Commands.CommandAsyncResult.Wait(Int32 milliSecondsTimeout, Boolean exitContext)
+   at Ansys.Core.Commands.Core.OutputArgBase.Wait()
+   at Ansys.Core.Commands.Output`1.Get()
+   at Ansys.ProjectSchematic.Commands.DuplicateComponentCommand.Execute(IFullContext context)
+--- System.InvalidOperationException: Unable to duplicate component /Schematic/Component:Model 5: duplication command Mechanical.DuplicateModel failed:  Mechanical is busy in another operation.
+   at Ansys.ProjectSchematic.Commands.DuplicateComponentCommand.Execute(IFullContext context)
+   at Ansys.Core.Commands.Concurrency.CommandWorkUnit.executeInContext(CommandContext subContext, IExecutionEngineCallback tracer)
+   at Ansys.Core.Commands.Concurrency.BaseWorkUnit.doExecute(IExecutionEngineCallback executionEngine, CommandContext subContext)
+   at Ansys.Core.Commands.Concurrency.BaseWorkUnit.Execute(IExecutionEngineCallback executionEngine, Boolean dontCatchExceptions)
+--- Ansys.Core.Commands.CommandFailedException: Unable to duplicate component /Schematic/Component:Model 5: duplication command Mechanical.DuplicateModel failed:  Mechanical is busy in another operation.
+CommandName: DuplicateComponent(Template=\"/Schematic/ComponentTemplate:SimulationModelCellTemplate\", Component=\"/Schematic/Component:Model 5\", UpstreamContainerMap={\"Engineering Data 5\": \"Engineering Data 6\", \"Geometry 5\": \"Geometry 6\"}, AllSystemProperties={\"SystemType\": [\"Static Structural (ANSYS)\"], \"SystemTypeAbbreviation\": [\"SYS\"], \"Solver\": [], \"Physics\": [], \"PhysicsType\": [\"Structural\"], \"AnalysisType\": [\"Static\"], \"SolverType\": [\"ANSYS\"], \"SolverTypeDisplayString\": [\"Mechanical APDL\"], \"PhysicsTypeDisplayString\": [\"Structural\"], \"AnalysisTypeDisplayString\": [\"Static Structural\"], \"SystemName\": [\"Static Structural (ANSYS)\"], \"IsCreated\": [\"True\"], \"AlreadyInSystem\": [\"Yes\"], \"VOLATILE:SystemName\": [\"SYS 4\"], \"UniqueSystemDirectoryName\": [\"SYS-25\"]}, Sources=Set(Sources=[[Set(DataType=\"EngineeringData\", Component=\"/Schematic/Component:Engineering Data 6\", Transfer=None)], [Set(DataType=\"Geometry\", Component=\"/Schematic/Component:Geometry 6\", Transfer=None)]]))
+   at Ansys.Core.Commands.CommandAsyncResult.RethrowFailureException(Exception e)
+   at Ansys.Core.Commands.CommandAsyncResult.Wait(Int32 milliSecondsTimeout, Boolean exitContext)
+   at Ansys.ProjectSchematic.Commands.DuplicateComponentCommand.InvokeAndWait(IProtectedContext context, String Name, DataReference Template, DataReference Component, Dictionary`2 UpstreamContainerMap, SystemPropertyDictionary AllSystemProperties, ComponentSourceCollection Sources, Boolean CanDestroySourceData, Output`1 CreatedComponent)
+   at Ansys.ProjectSchematic.DataHandling.ProjectWrapper.DuplicateComponent(IComponentTemplate newComponentTemplate, String name, IComponent rawComponent, Dictionary`2 remappingDictionary, SystemPropertyDictionary systemProperties, WrappedComponentSourceCollection sources, Boolean canDestroySourceData)
+   at Ansys.ProjectSchematic.DataHandling.SystemBuilder.InsertDuplicate(IComponentTemplate newComponentTemplate, IComponent componentToDuplicate, IComponent beforeComponent, Boolean canDestroySourceData, WrappedComponentSourceCollection modifiedSources)
+   at Ansys.ProjectSchematic.DataHandling.SystemCreation.CopySystem(String name, ISystem systemToCopy, IEnumerable`1 componentsToShare, Dictionary`2 modifiedComponentSources, ISystem systemToPositionBy, PositionType posType, Boolean previewing)
+   at Ansys.ProjectSchematic.DataHandling.SystemCreation.CopySystems(IFullContext context, IEnumerable`1 systemsToCopy, Boolean keepConnections, ProjectWrapper projectWrapper, IProgressMonitor progress)
+   at Ansys.ProjectSchematic.Commands.CopySystemsCommand.Execute(IFullContext context)
+   at Ansys.Core.Commands.Concurrency.CommandWorkUnit.executeInContext(CommandContext subContext, IExecutionEngineCallback tracer)
+   at Ansys.Core.Commands.Concurrency.BaseWorkUnit.doExecute(IExecutionEngineCallback executionEngine, CommandContext subContext)
+   at Ansys.Core.Commands.Concurrency.BaseWorkUnit.Execute(IExecutionEngineCallback executionEngine, Boolean dontCatchExceptions)
+--- Ansys.Core.Commands.CommandFailedException: Unable to duplicate component /Schematic/Component:Model 5: duplication command Mechanical.DuplicateModel failed:  Mechanical is busy in another operation.
+CommandName: CopySystems(Systems=[\"/Schematic/System:SYS 4\"], KeepConnections=True)
+   at Ansys.Core.Commands.CommandAsyncResult.RethrowFailureException(Exception e)
+   at Ansys.Core.Commands.CommandAsyncResult.Wait(Int32 milliSecondsTimeout, Boolean exitContext)
+   at Ansys.ProjectSchematic.Commands.CopySystemsCommand.InvokeAndWait(IProtectedContext context)
+   at Ansys.ProjectSchematic.Commands.CopySingleSystemCommand.Execute(IFullContext context)
+   at Ansys.Core.Commands.Concurrency.CommandWorkUnit.executeInContext(CommandContext subContext, IExecutionEngineCallback tracer)
+   at Ansys.Core.Commands.Concurrency.BaseWorkUnit.doExecute(IExecutionEngineCallback executionEngine, CommandContext subContext)
+   at Ansys.Core.Commands.Concurrency.BaseWorkUnit.Execute(IExecutionEngineCallback executionEngine, Boolean dontCatchExceptions)
+--- Ansys.Core.Commands.CommandFailedException: Unable to duplicate component /Schematic/Component:Model 5: duplication command Mechanical.DuplicateModel failed:  Mechanical is busy in another operation.
+CommandName: CopySingleSystem(System=\"/Schematic/System:SYS 4\", KeepConnections=True)
+   at Ansys.Core.Commands.CommandAsyncResult.RethrowFailureException(Exception e)
+   at Ansys.Core.Commands.CommandAsyncResult.Wait(Int32 milliSecondsTimeout, Boolean exitContext)
+   at Ansys.ProjectSchematic.GuiOperations.DuplicateSystems.Invoke(GuiOperationContext context)
+   at Ansys.UI.GuiOperationContext.Invoke(GuiOperationMetaData operationData)
+   at Ansys.UI.UIManager.InvokeOperationCore(String pseudoname, OperationDelegate callback, Boolean allowOSMessages, Boolean coreTransaction, Boolean deferredRefreshOnly)
+""", "Association": "", "DateTimeStamp": 09/09/2021 23:04:01, "Visibility": "Error", "MessageSourceContainer": None, "MessageSourceEntity": None, "AdditionalMessageData": None, "DesignPoint": None}</member-data>
+      </Object>
+      <Object Name="/Messages/StoredMessage:Message 29" Version="1.0">
+        <class-type valType="String">StoredMessage</class-type>
+        <object-name valType="String">Message 29</object-name>
+        <member-data valType="String">{"DisplayText": "Message", "MessageType": "Error", "MessageCategory": "None", "Summary": "Update failed for the Model component in Copy of Box of Static Structural.  Error updating cell Model in system Copy of Box of Static Structural. View the messages in the Mechanical editor for more details.", "Details": None, "Association": "", "DateTimeStamp": 05/10/2022 20:04:45, "Visibility": "Error", "MessageSourceContainer": None, "MessageSourceEntity": None, "AdditionalMessageData": None, "DesignPoint": None}</member-data>
+      </Object>
+      <Object Name="/Messages/StoredMessage:Message 30" Version="1.0">
+        <class-type valType="String">StoredMessage</class-type>
+        <object-name valType="String">Message 30</object-name>
+        <member-data valType="String">{"DisplayText": "Message", "MessageType": "Error", "MessageCategory": "None", "Summary": "Update failed for the Model component in Copy of Box of Static Structural.  Error updating cell Model in system Copy of Box of Static Structural. View the messages in the Mechanical editor for more details.", "Details": None, "Association": "", "DateTimeStamp": 05/10/2022 20:05:09, "Visibility": "Error", "MessageSourceContainer": None, "MessageSourceEntity": None, "AdditionalMessageData": None, "DesignPoint": None}</member-data>
+      </Object>
+      <Object Name="/Messages/StoredMessage:Message 31" Version="1.0">
+        <class-type valType="String">StoredMessage</class-type>
+        <object-name valType="String">Message 31</object-name>
+        <member-data valType="String">{"DisplayText": "Message", "MessageType": "Error", "MessageCategory": "None", "Summary": "Update failed for the Model component in Copy of Box of Static Structural.  Error updating cell Model in system Copy of Box of Static Structural. View the messages in the Mechanical editor for more details.", "Details": None, "Association": "", "DateTimeStamp": 05/10/2022 20:09:34, "Visibility": "Error", "MessageSourceContainer": None, "MessageSourceEntity": None, "AdditionalMessageData": None, "DesignPoint": None}</member-data>
+      </Object>
+      <Object Name="/Messages/StoredMessage:Message 32" Version="1.0">
+        <class-type valType="String">StoredMessage</class-type>
+        <object-name valType="String">Message 32</object-name>
+        <member-data valType="String">{"DisplayText": "Message", "MessageType": "Error", "MessageCategory": "None", "Summary": "Update failed for the Model component in Copy of Box of Static Structural.  Error updating cell Model in system Copy of Box of Static Structural. View the messages in the Mechanical editor for more details.", "Details": None, "Association": "", "DateTimeStamp": 05/10/2022 20:10:59, "Visibility": "Error", "MessageSourceContainer": None, "MessageSourceEntity": None, "AdditionalMessageData": None, "DesignPoint": None}</member-data>
+      </Object>
+      <Object Name="/Messages/StoredMessage:Message 33" Version="1.0">
+        <class-type valType="String">StoredMessage</class-type>
+        <object-name valType="String">Message 33</object-name>
+        <member-data valType="String">{"DisplayText": "Message", "MessageType": "Warning", "MessageCategory": "None", "Summary": "Unable to initialize addins in Mechanical. Either the application crashed or Workbench lost communication with it (由于目标计算机积极拒绝，无法连接。 127.0.0.1:62090).", "Details": None, "Association": "", "DateTimeStamp": 05/11/2022 12:24:49, "Visibility": "Information", "MessageSourceContainer": None, "MessageSourceEntity": None, "AdditionalMessageData": None, "DesignPoint": "0"}</member-data>
+      </Object>
+      <Object Name="/Messages/StoredMessage:Message 34" Version="1.0">
+        <class-type valType="String">StoredMessage</class-type>
+        <object-name valType="String">Message 34</object-name>
+        <member-data valType="String">{"DisplayText": "Message", "MessageType": "Error", "MessageCategory": "None", "Summary": "Update failed for the Model component in Static Structural.  Unable to update model. Either the application crashed or Workbench lost communication with it.", "Details": None, "Association": "", "DateTimeStamp": 05/11/2022 12:24:49, "Visibility": "Error", "MessageSourceContainer": None, "MessageSourceEntity": None, "AdditionalMessageData": None, "DesignPoint": None}</member-data>
+      </Object>
+      <Object Name="/Messages/StoredMessage:Message 35" Version="1.0">
+        <class-type valType="String">StoredMessage</class-type>
+        <object-name valType="String">Message 35</object-name>
+        <member-data valType="String">{"DisplayText": "Message", "MessageType": "Warning", "MessageCategory": "None", "Summary": "Unable to obtain linked environment IDs. 未将对象引用设置到对象的实例。", "Details": None, "Association": "", "DateTimeStamp": 01/17/2023 23:23:49, "Visibility": "Information", "MessageSourceContainer": None, "MessageSourceEntity": None, "AdditionalMessageData": None, "DesignPoint": "0"}</member-data>
+      </Object>
+      <Object Name="/Messages/StoredMessage:Message 36" Version="1.0">
+        <class-type valType="String">StoredMessage</class-type>
+        <object-name valType="String">Message 36</object-name>
+        <member-data valType="String">{"DisplayText": "Message", "MessageType": "Warning", "MessageCategory": "None", "Summary": "Unable to obtain linked environment IDs. 未将对象引用设置到对象的实例。", "Details": None, "Association": "", "DateTimeStamp": 01/17/2023 23:23:50, "Visibility": "Information", "MessageSourceContainer": None, "MessageSourceEntity": None, "AdditionalMessageData": None, "DesignPoint": "0"}</member-data>
+      </Object>
+      <Object Name="/Messages/StoredMessage:Message 37" Version="1.0">
+        <class-type valType="String">StoredMessage</class-type>
+        <object-name valType="String">Message 37</object-name>
+        <member-data valType="String">{"DisplayText": "Message", "MessageType": "Warning", "MessageCategory": "None", "Summary": "Unable to obtain condensed part IDs. 未将对象引用设置到对象的实例。", "Details": None, "Association": "", "DateTimeStamp": 01/17/2023 23:23:50, "Visibility": "Information", "MessageSourceContainer": None, "MessageSourceEntity": None, "AdditionalMessageData": None, "DesignPoint": "0"}</member-data>
+      </Object>
+      <Object Name="/Messages/StoredMessage:Message 38" Version="1.0">
+        <class-type valType="String">StoredMessage</class-type>
+        <object-name valType="String">Message 38</object-name>
+        <member-data valType="String">{"DisplayText": "Message", "MessageType": "Error", "MessageCategory": "None", "Summary": "Update failed for the Model component in Copy of Copy of Box of Static Structural.  未将对象引用设置到对象的实例。", "Details": None, "Association": "", "DateTimeStamp": 01/17/2023 23:23:50, "Visibility": "Error", "MessageSourceContainer": None, "MessageSourceEntity": None, "AdditionalMessageData": None, "DesignPoint": None}</member-data>
+      </Object>
+      <Object Name="/Messages/StoredMessage:Message 39" Version="1.0">
+        <class-type valType="String">StoredMessage</class-type>
+        <object-name valType="String">Message 39</object-name>
+        <member-data valType="String">{"DisplayText": "Message", "MessageType": "Warning", "MessageCategory": "None", "Summary": "Unable to obtain linked environment IDs. 未将对象引用设置到对象的实例。", "Details": None, "Association": "", "DateTimeStamp": 01/17/2023 23:23:56, "Visibility": "Information", "MessageSourceContainer": None, "MessageSourceEntity": None, "AdditionalMessageData": None, "DesignPoint": None}</member-data>
+      </Object>
+      <Object Name="/Messages/StoredMessage:Message 40" Version="1.0">
+        <class-type valType="String">StoredMessage</class-type>
+        <object-name valType="String">Message 40</object-name>
+        <member-data valType="String">{"DisplayText": "Message", "MessageType": "Warning", "MessageCategory": "None", "Summary": "Unable to obtain linked environment IDs. 未将对象引用设置到对象的实例。", "Details": None, "Association": "", "DateTimeStamp": 01/17/2023 23:24:14, "Visibility": "Information", "MessageSourceContainer": None, "MessageSourceEntity": None, "AdditionalMessageData": None, "DesignPoint": "0"}</member-data>
+      </Object>
+      <Object Name="/Messages/StoredMessage:Message 41" Version="1.0">
+        <class-type valType="String">StoredMessage</class-type>
+        <object-name valType="String">Message 41</object-name>
+        <member-data valType="String">{"DisplayText": "Message", "MessageType": "Warning", "MessageCategory": "None", "Summary": "Unable to obtain linked environment IDs. 未将对象引用设置到对象的实例。", "Details": None, "Association": "", "DateTimeStamp": 01/17/2023 23:24:14, "Visibility": "Information", "MessageSourceContainer": None, "MessageSourceEntity": None, "AdditionalMessageData": None, "DesignPoint": "0"}</member-data>
+      </Object>
+      <Object Name="/Messages/StoredMessage:Message 42" Version="1.0">
+        <class-type valType="String">StoredMessage</class-type>
+        <object-name valType="String">Message 42</object-name>
+        <member-data valType="String">{"DisplayText": "Message", "MessageType": "Warning", "MessageCategory": "None", "Summary": "Unable to obtain condensed part IDs. 未将对象引用设置到对象的实例。", "Details": None, "Association": "", "DateTimeStamp": 01/17/2023 23:24:14, "Visibility": "Information", "MessageSourceContainer": None, "MessageSourceEntity": None, "AdditionalMessageData": None, "DesignPoint": "0"}</member-data>
+      </Object>
+      <Object Name="/Messages/StoredMessage:Message 43" Version="1.0">
+        <class-type valType="String">StoredMessage</class-type>
+        <object-name valType="String">Message 43</object-name>
+        <member-data valType="String">{"DisplayText": "Message", "MessageType": "Error", "MessageCategory": "None", "Summary": "Update failed for the Model component in Copy of Copy of Box of Static Structural.  未将对象引用设置到对象的实例。", "Details": None, "Association": "", "DateTimeStamp": 01/17/2023 23:24:14, "Visibility": "Error", "MessageSourceContainer": None, "MessageSourceEntity": None, "AdditionalMessageData": None, "DesignPoint": None}</member-data>
+      </Object>
+      <Object Name="/Messages/StoredMessage:Message 44" Version="1.0">
+        <class-type valType="String">StoredMessage</class-type>
+        <object-name valType="String">Message 44</object-name>
+        <member-data valType="String">{"DisplayText": "Message", "MessageType": "Warning", "MessageCategory": "None", "Summary": "Unable to obtain linked environment IDs. 未将对象引用设置到对象的实例。", "Details": None, "Association": "", "DateTimeStamp": 01/17/2023 23:38:23, "Visibility": "Information", "MessageSourceContainer": None, "MessageSourceEntity": None, "AdditionalMessageData": None, "DesignPoint": None}</member-data>
+      </Object>
+      <Object Name="/Messages/StoredMessage:Message 45" Version="1.0">
+        <class-type valType="String">StoredMessage</class-type>
+        <object-name valType="String">Message 45</object-name>
+        <member-data valType="String">{"DisplayText": "Message", "MessageType": "Warning", "MessageCategory": "None", "Summary": "Unable to obtain linked environment IDs. 未将对象引用设置到对象的实例。", "Details": None, "Association": "", "DateTimeStamp": 01/17/2023 23:38:43, "Visibility": "Information", "MessageSourceContainer": None, "MessageSourceEntity": None, "AdditionalMessageData": None, "DesignPoint": None}</member-data>
+      </Object>
+      <Object Name="/Messages/StoredMessage:Message 46" Version="1.0">
+        <class-type valType="String">StoredMessage</class-type>
+        <object-name valType="String">Message 46</object-name>
+        <member-data valType="String">{"DisplayText": "Message", "MessageType": "Warning", "MessageCategory": "None", "Summary": "Unable to obtain linked environment IDs. 未将对象引用设置到对象的实例。", "Details": None, "Association": "", "DateTimeStamp": 01/17/2023 23:38:59, "Visibility": "Information", "MessageSourceContainer": None, "MessageSourceEntity": None, "AdditionalMessageData": None, "DesignPoint": None}</member-data>
+      </Object>
+      <Object Name="/Messages/StoredMessage:Message 47" Version="1.0">
+        <class-type valType="String">StoredMessage</class-type>
+        <object-name valType="String">Message 47</object-name>
+        <member-data valType="String">{"DisplayText": "Message", "MessageType": "Warning", "MessageCategory": "None", "Summary": "Unable to obtain linked environment IDs. 未将对象引用设置到对象的实例。", "Details": None, "Association": "", "DateTimeStamp": 01/17/2023 23:39:10, "Visibility": "Information", "MessageSourceContainer": None, "MessageSourceEntity": None, "AdditionalMessageData": None, "DesignPoint": "0"}</member-data>
+      </Object>
+      <Object Name="/Messages/StoredMessage:Message 48" Version="1.0">
+        <class-type valType="String">StoredMessage</class-type>
+        <object-name valType="String">Message 48</object-name>
+        <member-data valType="String">{"DisplayText": "Message", "MessageType": "Warning", "MessageCategory": "None", "Summary": "Unable to obtain linked environment IDs. 未将对象引用设置到对象的实例。", "Details": None, "Association": "", "DateTimeStamp": 01/17/2023 23:39:10, "Visibility": "Information", "MessageSourceContainer": None, "MessageSourceEntity": None, "AdditionalMessageData": None, "DesignPoint": "0"}</member-data>
+      </Object>
+      <Object Name="/Messages/StoredMessage:Message 49" Version="1.0">
+        <class-type valType="String">StoredMessage</class-type>
+        <object-name valType="String">Message 49</object-name>
+        <member-data valType="String">{"DisplayText": "Message", "MessageType": "Warning", "MessageCategory": "None", "Summary": "Unable to obtain condensed part IDs. 未将对象引用设置到对象的实例。", "Details": None, "Association": "", "DateTimeStamp": 01/17/2023 23:39:10, "Visibility": "Information", "MessageSourceContainer": None, "MessageSourceEntity": None, "AdditionalMessageData": None, "DesignPoint": "0"}</member-data>
+      </Object>
+      <Object Name="/Messages/StoredMessage:Message 50" Version="1.0">
+        <class-type valType="String">StoredMessage</class-type>
+        <object-name valType="String">Message 50</object-name>
+        <member-data valType="String">{"DisplayText": "Message", "MessageType": "Error", "MessageCategory": "None", "Summary": "Update failed for the Model component in Copy of Copy of Box of Static Structural.  未将对象引用设置到对象的实例。", "Details": None, "Association": "", "DateTimeStamp": 01/17/2023 23:39:10, "Visibility": "Error", "MessageSourceContainer": None, "MessageSourceEntity": None, "AdditionalMessageData": None, "DesignPoint": None}</member-data>
+      </Object>
+      <Object Name="/Messages/StoredMessage:Message 51" Version="1.0">
+        <class-type valType="String">StoredMessage</class-type>
+        <object-name valType="String">Message 51</object-name>
+        <member-data valType="String">{"DisplayText": "Message", "MessageType": "Error", "MessageCategory": "None", "Summary": "Unable to duplicate component /Schematic/Component:Model 12: duplication command Mechanical.DuplicateModel failed:  Mechanical is busy in another operation.", "Details": """Ansys.Core.Commands.ApplicationBusyException: 
+
+Server stack trace: 
+   在 Ans.Simulation.RemoteLib.SimulationHelper.CallSimulationWB2APIMethod(SimulationWB2APICallback callback)
+   在 System.Runtime.Remoting.Messaging.StackBuilderSink._PrivateProcessMessage(IntPtr md, Object[] args, Object server, Object[]&amp; outArgs)
+   在 System.Runtime.Remoting.Messaging.StackBuilderSink.SyncProcessMessage(IMessage msg)
+
+Exception rethrown at [0]: 
+   at System.Runtime.Remoting.Proxies.RealProxy.HandleReturnMessage(IMessage reqMsg, IMessage retMsg)
+   at System.Runtime.Remoting.Proxies.RealProxy.PrivateInvoke(MessageData&amp; msgData, Int32 type)
+   at Ans.Simulation.RemoteItf.ISimulationHelper.ThrowBusyExceptionIfMechanicalEditorBusy()
+   at Ansys.Addins.Infrastructure.Remoting.RemotingApiHelper.FatalApiMethodInvalidOperationException(String message, RemotingApiMethod callback)
+--- Ansys.Core.Commands.ApplicationBusyException:  Mechanical is busy in another operation.
+   at Ansys.Addins.Infrastructure.Remoting.RemotingApiHelper.ThrowApplicationBusyException(String message, String currentMethod, Exception innerException)
+   at Ansys.Addins.Infrastructure.Remoting.RemotingApiHelper.FatalApiMethodInvalidOperationException(String message, RemotingApiMethod callback)
+   at Ansys.Simulation.Core.Addin.ThrowBusyExceptionIfMechanicalEditorBusy(IProtectedContext context, DataSourceHelper helper, DataContainerReference curModelContainer)
+   at Ansys.Simulation.Core.Addin.ThrowBusyExceptionIfMechanicalEditorBusy(IProtectedContext context, DataContainerReference container)
+   at Ansys.Simulation.Core.Commands.DuplicateModel.ExecuteCommand(IFullContext context)
+   at Ansys.Addins.Infrastructure.CommandUtilities.CommandHelper.Execute(IFullContext context)
+   at Ansys.Core.Commands.Concurrency.CommandWorkUnit.executeInContext(CommandContext subContext, IExecutionEngineCallback tracer)
+   at Ansys.Core.Commands.Concurrency.BaseWorkUnit.doExecute(IExecutionEngineCallback executionEngine, CommandContext subContext)
+   at Ansys.Core.Commands.Concurrency.BaseWorkUnit.Execute(IExecutionEngineCallback executionEngine, Boolean dontCatchExceptions)
+--- Ansys.Core.Commands.CommandFailedException:  Mechanical is busy in another operation.
+CommandName: Mechanical.DuplicateModel(Name=\"Model 13\", Container=\"Model 12\", UpstreamContainerMap={\"Engineering Data 12\": \"Engineering Data 13\", \"Geometry 12\": \"Geometry 13\"}, CanDestroySourceData=False, AllSystemProperties={\"SystemType\": [\"Static Structural (ANSYS)\"], \"SystemTypeAbbreviation\": [\"SYS\"], \"Solver\": [], \"Physics\": [], \"PhysicsType\": [\"Structural\"], \"AnalysisType\": [\"Static\"], \"SolverType\": [\"ANSYS\"], \"SolverTypeDisplayString\": [\"Mechanical APDL\"], \"PhysicsTypeDisplayString\": [\"Structural\"], \"AnalysisTypeDisplayString\": [\"Static Structural\"], \"SystemName\": [\"Static Structural (ANSYS)\"], \"IsCreated\": [\"True\"], \"AlreadyInSystem\": [\"Yes\"], \"VOLATILE:SystemName\": [\"SYS 12\"], \"UniqueSystemDirectoryName\": [\"SYS-31\"]})
+   at Ansys.Core.Commands.CommandAsyncResult.RethrowFailureException(Exception e)
+   at Ansys.Core.Commands.CommandAsyncResult.Wait(Int32 milliSecondsTimeout, Boolean exitContext)
+   at Ansys.Core.Commands.Core.OutputArgBase.Wait()
+   at Ansys.Core.Commands.Output`1.Get()
+   at Ansys.ProjectSchematic.Commands.DuplicateComponentCommand.Execute(IFullContext context)
+--- System.InvalidOperationException: Unable to duplicate component /Schematic/Component:Model 12: duplication command Mechanical.DuplicateModel failed:  Mechanical is busy in another operation.
+   at Ansys.ProjectSchematic.Commands.DuplicateComponentCommand.Execute(IFullContext context)
+   at Ansys.Core.Commands.Concurrency.CommandWorkUnit.executeInContext(CommandContext subContext, IExecutionEngineCallback tracer)
+   at Ansys.Core.Commands.Concurrency.BaseWorkUnit.doExecute(IExecutionEngineCallback executionEngine, CommandContext subContext)
+   at Ansys.Core.Commands.Concurrency.BaseWorkUnit.Execute(IExecutionEngineCallback executionEngine, Boolean dontCatchExceptions)
+--- Ansys.Core.Commands.CommandFailedException: Unable to duplicate component /Schematic/Component:Model 12: duplication command Mechanical.DuplicateModel failed:  Mechanical is busy in another operation.
+CommandName: DuplicateComponent(Template=\"/Schematic/ComponentTemplate:SimulationModelCellTemplate\", Component=\"/Schematic/Component:Model 12\", UpstreamContainerMap={\"Engineering Data 12\": \"Engineering Data 13\", \"Geometry 12\": \"Geometry 13\"}, AllSystemProperties={\"SystemType\": [\"Static Structural (ANSYS)\"], \"SystemTypeAbbreviation\": [\"SYS\"], \"Solver\": [], \"Physics\": [], \"PhysicsType\": [\"Structural\"], \"AnalysisType\": [\"Static\"], \"SolverType\": [\"ANSYS\"], \"SolverTypeDisplayString\": [\"Mechanical APDL\"], \"PhysicsTypeDisplayString\": [\"Structural\"], \"AnalysisTypeDisplayString\": [\"Static Structural\"], \"SystemName\": [\"Static Structural (ANSYS)\"], \"IsCreated\": [\"True\"], \"AlreadyInSystem\": [\"Yes\"], \"VOLATILE:SystemName\": [\"SYS 12\"], \"UniqueSystemDirectoryName\": [\"SYS-31\"]}, Sources=Set(Sources=[[Set(DataType=\"EngineeringData\", Component=\"/Schematic/Component:Engineering Data 13\", Transfer=None)], [Set(DataType=\"Geometry\", Component=\"/Schematic/Component:Geometry 13\", Transfer=None)]]))
+   at Ansys.Core.Commands.CommandAsyncResult.RethrowFailureException(Exception e)
+   at Ansys.Core.Commands.CommandAsyncResult.Wait(Int32 milliSecondsTimeout, Boolean exitContext)
+   at Ansys.ProjectSchematic.Commands.DuplicateComponentCommand.InvokeAndWait(IProtectedContext context, String Name, DataReference Template, DataReference Component, Dictionary`2 UpstreamContainerMap, SystemPropertyDictionary AllSystemProperties, ComponentSourceCollection Sources, Boolean CanDestroySourceData, Output`1 CreatedComponent)
+   at Ansys.ProjectSchematic.DataHandling.ProjectWrapper.DuplicateComponent(IComponentTemplate newComponentTemplate, String name, IComponent rawComponent, Dictionary`2 remappingDictionary, SystemPropertyDictionary systemProperties, WrappedComponentSourceCollection sources, Boolean canDestroySourceData)
+   at Ansys.ProjectSchematic.DataHandling.SystemBuilder.InsertDuplicate(IComponentTemplate newComponentTemplate, IComponent componentToDuplicate, IComponent beforeComponent, Boolean canDestroySourceData, WrappedComponentSourceCollection modifiedSources)
+   at Ansys.ProjectSchematic.DataHandling.SystemCreation.CopySystem(String name, ISystem systemToCopy, IEnumerable`1 componentsToShare, Dictionary`2 modifiedComponentSources, ISystem systemToPositionBy, PositionType posType, Boolean previewing)
+   at Ansys.ProjectSchematic.DataHandling.SystemCreation.CopySystems(IFullContext context, IEnumerable`1 systemsToCopy, Boolean keepConnections, ProjectWrapper projectWrapper, IProgressMonitor progress)
+   at Ansys.ProjectSchematic.Commands.CopySystemsCommand.Execute(IFullContext context)
+   at Ansys.Core.Commands.Concurrency.CommandWorkUnit.executeInContext(CommandContext subContext, IExecutionEngineCallback tracer)
+   at Ansys.Core.Commands.Concurrency.BaseWorkUnit.doExecute(IExecutionEngineCallback executionEngine, CommandContext subContext)
+   at Ansys.Core.Commands.Concurrency.BaseWorkUnit.Execute(IExecutionEngineCallback executionEngine, Boolean dontCatchExceptions)
+--- Ansys.Core.Commands.CommandFailedException: Unable to duplicate component /Schematic/Component:Model 12: duplication command Mechanical.DuplicateModel failed:  Mechanical is busy in another operation.
+CommandName: CopySystems(Systems=[\"/Schematic/System:SYS 12\"], KeepConnections=True)
+   at Ansys.Core.Commands.CommandAsyncResult.RethrowFailureException(Exception e)
+   at Ansys.Core.Commands.CommandAsyncResult.Wait(Int32 milliSecondsTimeout, Boolean exitContext)
+   at Ansys.ProjectSchematic.Commands.CopySystemsCommand.InvokeAndWait(IProtectedContext context)
+   at Ansys.ProjectSchematic.Commands.CopySingleSystemCommand.Execute(IFullContext context)
+   at Ansys.Core.Commands.Concurrency.CommandWorkUnit.executeInContext(CommandContext subContext, IExecutionEngineCallback tracer)
+   at Ansys.Core.Commands.Concurrency.BaseWorkUnit.doExecute(IExecutionEngineCallback executionEngine, CommandContext subContext)
+   at Ansys.Core.Commands.Concurrency.BaseWorkUnit.Execute(IExecutionEngineCallback executionEngine, Boolean dontCatchExceptions)
+--- Ansys.Core.Commands.CommandFailedException: Unable to duplicate component /Schematic/Component:Model 12: duplication command Mechanical.DuplicateModel failed:  Mechanical is busy in another operation.
+CommandName: CopySingleSystem(System=\"/Schematic/System:SYS 12\", KeepConnections=True)
+   at Ansys.Core.Commands.CommandAsyncResult.RethrowFailureException(Exception e)
+   at Ansys.Core.Commands.CommandAsyncResult.Wait(Int32 milliSecondsTimeout, Boolean exitContext)
+   at Ansys.ProjectSchematic.GuiOperations.DuplicateSystems.Invoke(GuiOperationContext context)
+   at Ansys.UI.GuiOperationContext.Invoke(GuiOperationMetaData operationData)
+   at Ansys.UI.UIManager.InvokeOperationCore(String pseudoname, OperationDelegate callback, Boolean allowOSMessages, Boolean coreTransaction, Boolean deferredRefreshOnly)
+""", "Association": "", "DateTimeStamp": 01/17/2023 23:44:29, "Visibility": "Error", "MessageSourceContainer": None, "MessageSourceEntity": None, "AdditionalMessageData": None, "DesignPoint": None}</member-data>
+      </Object>
+      <Object Name="/Messages/StoredMessage:Message 52" Version="1.0">
+        <class-type valType="String">StoredMessage</class-type>
+        <object-name valType="String">Message 52</object-name>
+        <member-data valType="String">{"DisplayText": "Message", "MessageType": "Error", "MessageCategory": "None", "Summary": "Unable to duplicate component /Schematic/Component:Model 13: duplication command Mechanical.DuplicateModel failed:  Mechanical is busy in another operation.", "Details": """Ansys.Core.Commands.ApplicationBusyException: 
+
+Server stack trace: 
+   在 Ans.Simulation.RemoteLib.SimulationHelper.CallSimulationWB2APIMethod(SimulationWB2APICallback callback)
+   在 System.Runtime.Remoting.Messaging.StackBuilderSink._PrivateProcessMessage(IntPtr md, Object[] args, Object server, Object[]&amp; outArgs)
+   在 System.Runtime.Remoting.Messaging.StackBuilderSink.SyncProcessMessage(IMessage msg)
+
+Exception rethrown at [0]: 
+   at System.Runtime.Remoting.Proxies.RealProxy.HandleReturnMessage(IMessage reqMsg, IMessage retMsg)
+   at System.Runtime.Remoting.Proxies.RealProxy.PrivateInvoke(MessageData&amp; msgData, Int32 type)
+   at Ans.Simulation.RemoteItf.ISimulationHelper.ThrowBusyExceptionIfMechanicalEditorBusy()
+   at Ansys.Addins.Infrastructure.Remoting.RemotingApiHelper.FatalApiMethodInvalidOperationException(String message, RemotingApiMethod callback)
+--- Ansys.Core.Commands.ApplicationBusyException:  Mechanical is busy in another operation.
+   at Ansys.Addins.Infrastructure.Remoting.RemotingApiHelper.ThrowApplicationBusyException(String message, String currentMethod, Exception innerException)
+   at Ansys.Addins.Infrastructure.Remoting.RemotingApiHelper.FatalApiMethodInvalidOperationException(String message, RemotingApiMethod callback)
+   at Ansys.Simulation.Core.Addin.ThrowBusyExceptionIfMechanicalEditorBusy(IProtectedContext context, DataSourceHelper helper, DataContainerReference curModelContainer)
+   at Ansys.Simulation.Core.Addin.ThrowBusyExceptionIfMechanicalEditorBusy(IProtectedContext context, DataContainerReference container)
+   at Ansys.Simulation.Core.Commands.DuplicateModel.ExecuteCommand(IFullContext context)
+   at Ansys.Addins.Infrastructure.CommandUtilities.CommandHelper.Execute(IFullContext context)
+   at Ansys.Core.Commands.Concurrency.CommandWorkUnit.executeInContext(CommandContext subContext, IExecutionEngineCallback tracer)
+   at Ansys.Core.Commands.Concurrency.BaseWorkUnit.doExecute(IExecutionEngineCallback executionEngine, CommandContext subContext)
+   at Ansys.Core.Commands.Concurrency.BaseWorkUnit.Execute(IExecutionEngineCallback executionEngine, Boolean dontCatchExceptions)
+--- Ansys.Core.Commands.CommandFailedException:  Mechanical is busy in another operation.
+CommandName: Mechanical.DuplicateModel(Name=\"Model 14\", Container=\"Model 13\", UpstreamContainerMap={\"Engineering Data 13\": \"Engineering Data 14\", \"Geometry 13\": \"Geometry 14\"}, CanDestroySourceData=False, AllSystemProperties={\"SystemType\": [\"Static Structural (ANSYS)\"], \"SystemTypeAbbreviation\": [\"SYS\"], \"Solver\": [], \"Physics\": [], \"PhysicsType\": [\"Structural\"], \"AnalysisType\": [\"Static\"], \"SolverType\": [\"ANSYS\"], \"SolverTypeDisplayString\": [\"Mechanical APDL\"], \"PhysicsTypeDisplayString\": [\"Structural\"], \"AnalysisTypeDisplayString\": [\"Static Structural\"], \"SystemName\": [\"Static Structural (ANSYS)\"], \"IsCreated\": [\"True\"], \"AlreadyInSystem\": [\"Yes\"], \"VOLATILE:SystemName\": [\"SYS 13\"], \"UniqueSystemDirectoryName\": [\"SYS-32\"]})
+   at Ansys.Core.Commands.CommandAsyncResult.RethrowFailureException(Exception e)
+   at Ansys.Core.Commands.CommandAsyncResult.Wait(Int32 milliSecondsTimeout, Boolean exitContext)
+   at Ansys.Core.Commands.Core.OutputArgBase.Wait()
+   at Ansys.Core.Commands.Output`1.Get()
+   at Ansys.ProjectSchematic.Commands.DuplicateComponentCommand.Execute(IFullContext context)
+--- System.InvalidOperationException: Unable to duplicate component /Schematic/Component:Model 13: duplication command Mechanical.DuplicateModel failed:  Mechanical is busy in another operation.
+   at Ansys.ProjectSchematic.Commands.DuplicateComponentCommand.Execute(IFullContext context)
+   at Ansys.Core.Commands.Concurrency.CommandWorkUnit.executeInContext(CommandContext subContext, IExecutionEngineCallback tracer)
+   at Ansys.Core.Commands.Concurrency.BaseWorkUnit.doExecute(IExecutionEngineCallback executionEngine, CommandContext subContext)
+   at Ansys.Core.Commands.Concurrency.BaseWorkUnit.Execute(IExecutionEngineCallback executionEngine, Boolean dontCatchExceptions)
+--- Ansys.Core.Commands.CommandFailedException: Unable to duplicate component /Schematic/Component:Model 13: duplication command Mechanical.DuplicateModel failed:  Mechanical is busy in another operation.
+CommandName: DuplicateComponent(Template=\"/Schematic/ComponentTemplate:SimulationModelCellTemplate\", Component=\"/Schematic/Component:Model 13\", UpstreamContainerMap={\"Engineering Data 13\": \"Engineering Data 14\", \"Geometry 13\": \"Geometry 14\"}, AllSystemProperties={\"SystemType\": [\"Static Structural (ANSYS)\"], \"SystemTypeAbbreviation\": [\"SYS\"], \"Solver\": [], \"Physics\": [], \"PhysicsType\": [\"Structural\"], \"AnalysisType\": [\"Static\"], \"SolverType\": [\"ANSYS\"], \"SolverTypeDisplayString\": [\"Mechanical APDL\"], \"PhysicsTypeDisplayString\": [\"Structural\"], \"AnalysisTypeDisplayString\": [\"Static Structural\"], \"SystemName\": [\"Static Structural (ANSYS)\"], \"IsCreated\": [\"True\"], \"AlreadyInSystem\": [\"Yes\"], \"VOLATILE:SystemName\": [\"SYS 13\"], \"UniqueSystemDirectoryName\": [\"SYS-32\"]}, Sources=Set(Sources=[[Set(DataType=\"EngineeringData\", Component=\"/Schematic/Component:Engineering Data 14\", Transfer=None)], [Set(DataType=\"Geometry\", Component=\"/Schematic/Component:Geometry 14\", Transfer=None)]]))
+   at Ansys.Core.Commands.CommandAsyncResult.RethrowFailureException(Exception e)
+   at Ansys.Core.Commands.CommandAsyncResult.Wait(Int32 milliSecondsTimeout, Boolean exitContext)
+   at Ansys.ProjectSchematic.Commands.DuplicateComponentCommand.InvokeAndWait(IProtectedContext context, String Name, DataReference Template, DataReference Component, Dictionary`2 UpstreamContainerMap, SystemPropertyDictionary AllSystemProperties, ComponentSourceCollection Sources, Boolean CanDestroySourceData, Output`1 CreatedComponent)
+   at Ansys.ProjectSchematic.DataHandling.ProjectWrapper.DuplicateComponent(IComponentTemplate newComponentTemplate, String name, IComponent rawComponent, Dictionary`2 remappingDictionary, SystemPropertyDictionary systemProperties, WrappedComponentSourceCollection sources, Boolean canDestroySourceData)
+   at Ansys.ProjectSchematic.DataHandling.SystemBuilder.InsertDuplicate(IComponentTemplate newComponentTemplate, IComponent componentToDuplicate, IComponent beforeComponent, Boolean canDestroySourceData, WrappedComponentSourceCollection modifiedSources)
+   at Ansys.ProjectSchematic.DataHandling.SystemCreation.CopySystem(String name, ISystem systemToCopy, IEnumerable`1 componentsToShare, Dictionary`2 modifiedComponentSources, ISystem systemToPositionBy, PositionType posType, Boolean previewing)
+   at Ansys.ProjectSchematic.DataHandling.SystemCreation.CopySystems(IFullContext context, IEnumerable`1 systemsToCopy, Boolean keepConnections, ProjectWrapper projectWrapper, IProgressMonitor progress)
+   at Ansys.ProjectSchematic.Commands.CopySystemsCommand.Execute(IFullContext context)
+   at Ansys.Core.Commands.Concurrency.CommandWorkUnit.executeInContext(CommandContext subContext, IExecutionEngineCallback tracer)
+   at Ansys.Core.Commands.Concurrency.BaseWorkUnit.doExecute(IExecutionEngineCallback executionEngine, CommandContext subContext)
+   at Ansys.Core.Commands.Concurrency.BaseWorkUnit.Execute(IExecutionEngineCallback executionEngine, Boolean dontCatchExceptions)
+--- Ansys.Core.Commands.CommandFailedException: Unable to duplicate component /Schematic/Component:Model 13: duplication command Mechanical.DuplicateModel failed:  Mechanical is busy in another operation.
+CommandName: CopySystems(Systems=[\"/Schematic/System:SYS 13\"], KeepConnections=True)
+   at Ansys.Core.Commands.CommandAsyncResult.RethrowFailureException(Exception e)
+   at Ansys.Core.Commands.CommandAsyncResult.Wait(Int32 milliSecondsTimeout, Boolean exitContext)
+   at Ansys.ProjectSchematic.Commands.CopySystemsCommand.InvokeAndWait(IProtectedContext context)
+   at Ansys.ProjectSchematic.Commands.CopySingleSystemCommand.Execute(IFullContext context)
+   at Ansys.Core.Commands.Concurrency.CommandWorkUnit.executeInContext(CommandContext subContext, IExecutionEngineCallback tracer)
+   at Ansys.Core.Commands.Concurrency.BaseWorkUnit.doExecute(IExecutionEngineCallback executionEngine, CommandContext subContext)
+   at Ansys.Core.Commands.Concurrency.BaseWorkUnit.Execute(IExecutionEngineCallback executionEngine, Boolean dontCatchExceptions)
+--- Ansys.Core.Commands.CommandFailedException: Unable to duplicate component /Schematic/Component:Model 13: duplication command Mechanical.DuplicateModel failed:  Mechanical is busy in another operation.
+CommandName: CopySingleSystem(System=\"/Schematic/System:SYS 13\", KeepConnections=True)
+   at Ansys.Core.Commands.CommandAsyncResult.RethrowFailureException(Exception e)
+   at Ansys.Core.Commands.CommandAsyncResult.Wait(Int32 milliSecondsTimeout, Boolean exitContext)
+   at Ansys.ProjectSchematic.GuiOperations.DuplicateSystems.Invoke(GuiOperationContext context)
+   at Ansys.UI.GuiOperationContext.Invoke(GuiOperationMetaData operationData)
+   at Ansys.UI.UIManager.InvokeOperationCore(String pseudoname, OperationDelegate callback, Boolean allowOSMessages, Boolean coreTransaction, Boolean deferredRefreshOnly)
+""", "Association": "", "DateTimeStamp": 01/29/2023 13:39:24, "Visibility": "Error", "MessageSourceContainer": None, "MessageSourceEntity": None, "AdditionalMessageData": None, "DesignPoint": None}</member-data>
+      </Object>
+    </Container>
+    <Container Name="Parameters" Version="1.0">
+      <container-type valType="String">Ansys.ParameterManager.ParameterManagerAddin:parameters</container-type>
+      <static-id valType="String">Parameters</static-id>
+      <storage-scheme-id valType="String">version-1-format</storage-scheme-id>
+      <maxUpdateOrder valType="Double">1</maxUpdateOrder>
+      <deleted-sources valType="String">[]</deleted-sources>
+      <last-updated valType="Int64">0</last-updated>
+      <last-modified-by-usage valType="String">{"Extrinsic": 98802, "Input": 83949, "Output": 2443}</last-modified-by-usage>
+      <outputs-generated-by-type valType="String">{}</outputs-generated-by-type>
+      <contains-significant-data valType="Boolean">true</contains-significant-data>
+      <Object Name="/Parameters/DesignPoint:0" Version="1.0">
+        <class-type valType="String">DesignPoint</class-type>
+        <object-name valType="String">0</object-name>
+        <member-data valType="String">{"DisplayText": "DP 0", "JustDuplicated": False, "PartiallyRetainedData": [], "ValidRetainedData": [], "ErrorsOnLastUpdate": {}, "LastUpdateInformation": {"DidUpdate": "True", "DidPreRsmUpdate": "False", "UpdatedComponents": "Model 14 in SYS 14"}, "Parameters": {}, "ParameterErrors": {}, "CurrentValues": {}, "ParameterStatus": {}, "Note": None, "IsUpToDate": False, "Exported": True, "Retained": True, "CurrentStateExported": False, "IsDataModelValid": True, "HasRetainedData": True, "HasBeenSolved": True, "UpdateOrder": 1}</member-data>
+        <properties-setByUserFlag-data valType="String">["IsDataModelValid"]</properties-setByUserFlag-data>
+      </Object>
+      <Object Name="/Parameters/DesignPointReportSetting:Design Points Report Setting" Version="1.0">
+        <class-type valType="String">DesignPointReportSetting</class-type>
+        <object-name valType="String">Design Points Report Setting</object-name>
+        <member-data valType="String">{"DisplayText": "Design Points Report Setting", "DesignPointReportImage": "None"}</member-data>
+      </Object>
+      <ParameterToPropertyMap />
+    </Container>
+    <Container Name="Schematic" Version="1.0">
+      <container-type valType="String">Ansys.ProjectSchematic.ProjectSchematicAddin:Default</container-type>
+      <static-id valType="String">Schematic</static-id>
+      <storage-scheme-id valType="String">version-1-format</storage-scheme-id>
+      <deleted-sources valType="String">[]</deleted-sources>
+      <last-updated valType="Int64">0</last-updated>
+      <last-modified-by-usage valType="String">{"Extrinsic": 104286, "Input": 104285, "Output": 2446}</last-modified-by-usage>
+      <outputs-generated-by-type valType="String">{}</outputs-generated-by-type>
+      <contains-significant-data valType="Boolean">true</contains-significant-data>
+      <Object Name="/Schematic/System:SYS 14" Version="1.0">
+        <class-type valType="String">System</class-type>
+        <object-name valType="String">SYS 14</object-name>
+        <member-data valType="String">{"DisplayText": "BoxBeam of Static Structural", "Components": [$$c6bfbb95-0209-4739-9a65-c6b37c5daaca, $$92604557-f507-41a4-9526-70c376b437da, $$1d07206b-71cc-4690-9185-8933dba327ae, $$5b413f28-c099-4534-9496-b65945d71bf6, $$ecc293e6-0deb-4837-a725-8a8e9b156955, $$efa7e61e-7c69-4386-835d-072a18f360aa], "ComponentGroups": [], "SystemVisible": True, "RequiredComponents": [$$1d07206b-71cc-4690-9185-8933dba327ae, $$5b413f28-c099-4534-9496-b65945d71bf6], "ExcludedComponentTemplates": [], "Attributes": {"PhysicsType": "Structural", "AnalysisType": "Static", "SolverType": "ANSYS", "SolverTypeDisplayString": "Mechanical APDL", "PhysicsTypeDisplayString": "Structural", "AnalysisTypeDisplayString": "Static Structural", "SystemName": "Static Structural (ANSYS)", "IsCreated": "True", "AlreadyInSystem": "Yes", "VOLATILE:SystemName": "SYS 14"}, "SystemType": "Static Structural (ANSYS)", "HeaderText": "Static Structural", "SystemTypeAbbreviation": "SYS", "UniqueSystemDirectoryName": "SYS-32", "Physics": [], "AnalysisType": None, "SystemHelpId": "wb2sb_ststructAN", "AdditionalSystemHelpId": None, "IsParametric": False, "CreatedFromTemplate": $$ea15f3d4-3c6e-43bd-a4e2-765eaeecf0a6, "Notes": None, "LayoutChildren": [], "LayoutIndex": 9.5}</member-data>
+        <properties-setByUserFlag-data valType="String">["DisplayText"]</properties-setByUserFlag-data>
+      </Object>
+      <Object Name="/Schematic/SchematicSettings:Schematic Settings" Version="1.0">
+        <class-type valType="String">SchematicSettings</class-type>
+        <object-name valType="String">Schematic Settings</object-name>
+        <member-data valType="String">{"DisplayText": "Schematic Settings", "WireBundling": False, "ShowSystemCoordinates": True, "Notes": None, "SuspendCollectingRSMResult": False}</member-data>
+      </Object>
+      <Object Name="/Schematic/DesignPointSolveSettings:Design Points Update Settings" Version="1.0">
+        <class-type valType="String">DesignPointSolveSettings</class-type>
+        <object-name valType="String">Design Points Update Settings</object-name>
+        <member-data valType="String">{"DisplayText": "Design Points Update Settings", "UpdateOption": "Foreground", "RsmUserString": None, "ConfiguredQueue": {"OptionIcons": None, "OptionLabels": "Local", "Options": "Local", "ReadOnlyOptions": None, "OptionFeatureFlags": None, "OptionFilterFlags": None, "OptionLicenseFlags": None, "Value": "Local"}, "RsmJobName": "Workbench", "UpdateMethod": "Foreground", "JobControl": "OneJobAllDesignPoints", "MaxNumberOfJobs": 1, "UpdateOrder": "UpdateFromCurrentDesignPoint", "PreRSMUpdate": "None", "AllowRemoteGeometryUpdate": False, "PartialUpdate": "None", "RetainPartialUpdate": "None", "LicenseCheckout": "OnDemand", "DelayReservedLicenseCheckout": False, "ReservedLicensingExcludesPreRsmUpdate": False, "ComponentExecutionMode": "Serial", "NumberOfCoresPerJob": 2, "KeepFailedDesignPointFiles": False, "RetainFailedDesignPoints": False, "DesignPointRetainedOrExportedUpdate": "Parameters", "DesignPointUpdateTimeout": -1, "NumberOfTasksToBeCreated": 1}</member-data>
+      </Object>
+      <Object Name="/Schematic/HeldLicenseSettings:User Reserved Licenses" Version="1.0">
+        <class-type valType="String">HeldLicenseSettings</class-type>
+        <object-name valType="String">User Reserved Licenses</object-name>
+        <member-data valType="String">{"DisplayText": "User Reserved Licenses", "ReservedSet": {}}</member-data>
+      </Object>
+      <Object Name="/Schematic/CustomProjectTemplate:Thermal-Stress" Version="1.0">
+        <class-type valType="String">CustomProjectTemplate</class-type>
+        <object-name valType="String">Thermal-Stress</object-name>
+        <member-data valType="String">{"DisplayText": "Thermal-Stress", "SystemTemplates": [$$a8fe542e-8f6e-4a4c-bf23-3306fc5416e8, $$ea15f3d4-3c6e-43bd-a4e2-765eaeecf0a6], "SystemNames": ["Steady-State Thermal (ANSYS)", "Static Structural (ANSYS)"], "ToolboxGroup": "Custom Systems", "AdditionalSystemHelpId": None, "PostCreationSteps": [["Share", "Steady-State Thermal (ANSYS):Engineering Data", "Static Structural (ANSYS):Engineering Data"], ["Share", "Steady-State Thermal (ANSYS):Geometry", "Static Structural (ANSYS):Geometry"], ["Share", "Steady-State Thermal (ANSYS):Model", "Static Structural (ANSYS):Model"], ["Connect", "Steady-State Thermal (ANSYS):Solution", "Static Structural (ANSYS):Setup"]], "LayoutIndices": {"Steady-State Thermal (ANSYS)": 1, "Static Structural (ANSYS)": 0}, "LayoutChildren": {"Steady-State Thermal (ANSYS)": ["Static Structural (ANSYS)"]}}</member-data>
+      </Object>
+      <Object Name="/Schematic/CustomProjectTemplate:Pre-Stress Modal" Version="1.0">
+        <class-type valType="String">CustomProjectTemplate</class-type>
+        <object-name valType="String">Pre-Stress Modal</object-name>
+        <member-data valType="String">{"DisplayText": "Pre-Stress Modal", "SystemTemplates": [$$ea15f3d4-3c6e-43bd-a4e2-765eaeecf0a6, $$00230714-a0fe-418f-9f32-7abd05be25b9], "SystemNames": ["Static Structural (ANSYS)", "Modal (ANSYS)"], "ToolboxGroup": "Custom Systems", "AdditionalSystemHelpId": None, "PostCreationSteps": [["Share", "Static Structural (ANSYS):Engineering Data", "Modal (ANSYS):Engineering Data"], ["Share", "Static Structural (ANSYS):Geometry", "Modal (ANSYS):Geometry"], ["Share", "Static Structural (ANSYS):Model", "Modal (ANSYS):Model"], ["Connect", "Static Structural (ANSYS):Solution", "Modal (ANSYS):Setup"]], "LayoutIndices": {"Static Structural (ANSYS)": 1, "Modal (ANSYS)": 0}, "LayoutChildren": {"Static Structural (ANSYS)": ["Modal (ANSYS)"]}}</member-data>
+      </Object>
+      <Object Name="/Schematic/CustomProjectTemplate:Random Vibration" Version="1.0">
+        <class-type valType="String">CustomProjectTemplate</class-type>
+        <object-name valType="String">Random Vibration</object-name>
+        <member-data valType="String">{"DisplayText": "Random Vibration", "SystemTemplates": [$$00230714-a0fe-418f-9f32-7abd05be25b9, $$943b2047-10f6-4a25-b29d-cbb01497f0af], "SystemNames": ["Modal (ANSYS)", "Random Vibration (ANSYS)"], "ToolboxGroup": "Custom Systems", "AdditionalSystemHelpId": None, "PostCreationSteps": [["Share", "Modal (ANSYS):Engineering Data", "Random Vibration (ANSYS):Engineering Data"], ["Share", "Modal (ANSYS):Geometry", "Random Vibration (ANSYS):Geometry"], ["Share", "Modal (ANSYS):Model", "Random Vibration (ANSYS):Model"], ["Connect", "Modal (ANSYS):Solution", "Random Vibration (ANSYS):Setup"]], "LayoutIndices": {"Modal (ANSYS)": 1, "Random Vibration (ANSYS)": 0}, "LayoutChildren": {"Modal (ANSYS)": ["Random Vibration (ANSYS)"]}}</member-data>
+      </Object>
+      <Object Name="/Schematic/CustomProjectTemplate:Response Spectrum" Version="1.0">
+        <class-type valType="String">CustomProjectTemplate</class-type>
+        <object-name valType="String">Response Spectrum</object-name>
+        <member-data valType="String">{"DisplayText": "Response Spectrum", "SystemTemplates": [$$00230714-a0fe-418f-9f32-7abd05be25b9, $$e4731a21-3825-47f4-8a37-2254c75d65e1], "SystemNames": ["Modal (ANSYS)", "Response Spectrum (ANSYS)"], "ToolboxGroup": "Custom Systems", "AdditionalSystemHelpId": None, "PostCreationSteps": [["Share", "Modal (ANSYS):Engineering Data", "Response Spectrum (ANSYS):Engineering Data"], ["Share", "Modal (ANSYS):Geometry", "Response Spectrum (ANSYS):Geometry"], ["Share", "Modal (ANSYS):Model", "Response Spectrum (ANSYS):Model"], ["Connect", "Modal (ANSYS):Solution", "Response Spectrum (ANSYS):Setup"]], "LayoutIndices": {"Modal (ANSYS)": 1, "Response Spectrum (ANSYS)": 0}, "LayoutChildren": {"Modal (ANSYS)": ["Response Spectrum (ANSYS)"]}}</member-data>
+      </Object>
+      <Object Name="/Schematic/Component:Engineering Data 14" Version="1.0">
+        <class-type valType="String">Component</class-type>
+        <object-name valType="String">Engineering Data 14</object-name>
+        <member-data valType="String">{"DisplayText": "Engineering Data", "ImageName": "EngDataComponent16x16", "ComponentStateOnLastFailure": "UpToDate", "AlwaysBePartOfDpUpdate": False, "FullyUpToDateOnDps": None, "CoupledClients": [], "SubComponents": [], "DataSharedFrom": None, "DataSharing": "None", "DataContainer": "Engineering Data 14", "_overwrittenUpdatable": None, "Template": $$a217d601-bfba-465b-84c9-ed669f8e26a8, "InSystem": $$27e3204e-5e38-4a31-b0ea-0cd13a9012dc, "MasterSources": {"Sources": []}, "Notes": None, "UsedLicenses": None, "ActiveTransferComponents": [], "Solver": None, "IsFailedState": False, "UpdateConditionParameter": None}</member-data>
+      </Object>
+      <Object Name="/Schematic/Component:Geometry 14" Version="1.0">
+        <class-type valType="String">Component</class-type>
+        <object-name valType="String">Geometry 14</object-name>
+        <member-data valType="String">{"DisplayText": "Geometry", "ImageName": "cad_designmodeler", "ComponentStateOnLastFailure": "UpToDate", "AlwaysBePartOfDpUpdate": False, "FullyUpToDateOnDps": None, "CoupledClients": [], "SubComponents": [], "DataSharedFrom": None, "DataSharing": "None", "DataContainer": "Geometry 14", "_overwrittenUpdatable": None, "Template": $$2648bda9-e271-4062-a939-aef108ce0792, "InSystem": $$27e3204e-5e38-4a31-b0ea-0cd13a9012dc, "MasterSources": {"Sources": []}, "Notes": None, "UsedLicenses": None, "ActiveTransferComponents": [], "Solver": None, "IsFailedState": False, "UpdateConditionParameter": None}</member-data>
+      </Object>
+      <Object Name="/Schematic/Component:Model 14" Version="1.0">
+        <class-type valType="String">Component</class-type>
+        <object-name valType="String">Model 14</object-name>
+        <member-data valType="String">{"DisplayText": "Model", "ImageName": "model2", "ComponentStateOnLastFailure": "UpToDate", "AlwaysBePartOfDpUpdate": False, "FullyUpToDateOnDps": None, "CoupledClients": [], "SubComponents": [], "DataSharedFrom": None, "DataSharing": "None", "DataContainer": "Model 14", "_overwrittenUpdatable": None, "Template": $$cb6dab73-9b66-4312-80b6-c77d9f4819df, "InSystem": $$27e3204e-5e38-4a31-b0ea-0cd13a9012dc, "MasterSources": {"Sources": [[{"DataType": "EngineeringData", "Component": $$c6bfbb95-0209-4739-9a65-c6b37c5daaca, "Transfer": None}], [{"DataType": "Geometry", "Component": $$92604557-f507-41a4-9526-70c376b437da, "Transfer": None}]]}, "Notes": None, "UsedLicenses": {}, "ActiveTransferComponents": [], "Solver": "", "IsFailedState": False, "UpdateConditionParameter": None}</member-data>
+      </Object>
+      <Object Name="/Schematic/Component:Setup 14" Version="1.0">
+        <class-type valType="String">Component</class-type>
+        <object-name valType="String">Setup 14</object-name>
+        <member-data valType="String">{"DisplayText": "Setup", "ImageName": "setup", "ComponentStateOnLastFailure": "UpToDate", "AlwaysBePartOfDpUpdate": False, "FullyUpToDateOnDps": None, "CoupledClients": [], "SubComponents": [], "DataSharedFrom": None, "DataSharing": "None", "DataContainer": "Setup 14", "_overwrittenUpdatable": None, "Template": $$bc55f925-c225-459c-9dd4-4a8467021f4f, "InSystem": $$27e3204e-5e38-4a31-b0ea-0cd13a9012dc, "MasterSources": {"Sources": [[{"DataType": "MechanicalModel", "Component": $$1d07206b-71cc-4690-9185-8933dba327ae, "Transfer": None}], [{"DataType": "MechanicalMesh", "Component": $$1d07206b-71cc-4690-9185-8933dba327ae, "Transfer": None}]]}, "Notes": None, "UsedLicenses": None, "ActiveTransferComponents": [], "Solver": "ANSYS", "IsFailedState": False, "UpdateConditionParameter": None}</member-data>
+      </Object>
+      <Object Name="/Schematic/Component:Solution 14" Version="1.0">
+        <class-type valType="String">Component</class-type>
+        <object-name valType="String">Solution 14</object-name>
+        <member-data valType="String">{"DisplayText": "Solution", "ImageName": "Mechanical_Solution", "ComponentStateOnLastFailure": "UpToDate", "AlwaysBePartOfDpUpdate": False, "FullyUpToDateOnDps": None, "CoupledClients": [], "SubComponents": [], "DataSharedFrom": None, "DataSharing": "None", "DataContainer": "Solution 14", "_overwrittenUpdatable": None, "Template": $$8c0989df-240c-4e70-ad3b-c3c13e4aded6, "InSystem": $$27e3204e-5e38-4a31-b0ea-0cd13a9012dc, "MasterSources": {"Sources": [[{"DataType": "SimulationSetup", "Component": $$5b413f28-c099-4534-9496-b65945d71bf6, "Transfer": None}]]}, "Notes": None, "UsedLicenses": None, "ActiveTransferComponents": [], "Solver": "ANSYS", "IsFailedState": False, "UpdateConditionParameter": None}</member-data>
+      </Object>
+      <Object Name="/Schematic/Component:Results 14" Version="1.0">
+        <class-type valType="String">Component</class-type>
+        <object-name valType="String">Results 14</object-name>
+        <member-data valType="String">{"DisplayText": "Results", "ImageName": "results", "ComponentStateOnLastFailure": "UpToDate", "AlwaysBePartOfDpUpdate": False, "FullyUpToDateOnDps": None, "CoupledClients": [], "SubComponents": [], "DataSharedFrom": None, "DataSharing": "None", "DataContainer": "Results 14", "_overwrittenUpdatable": None, "Template": $$d146fb8b-6b7d-4116-bbdd-726d00468708, "InSystem": $$27e3204e-5e38-4a31-b0ea-0cd13a9012dc, "MasterSources": {"Sources": [[{"DataType": "SimulationSolution", "Component": $$ecc293e6-0deb-4837-a725-8a8e9b156955, "Transfer": None}]]}, "Notes": None, "UsedLicenses": None, "ActiveTransferComponents": [], "Solver": "ANSYS", "IsFailedState": False, "UpdateConditionParameter": None}</member-data>
+      </Object>
+    </Container>
+    <Container Name="ReportDataContainer" Version="1.0">
+      <container-type valType="String">Ansys.ProjectReporting.Addin:ReportDataContainer</container-type>
+      <static-id valType="String">ReportDataContainer</static-id>
+      <storage-scheme-id valType="String">version-1-format</storage-scheme-id>
+      <deleted-sources valType="String">[]</deleted-sources>
+      <last-updated valType="Int64">0</last-updated>
+      <last-modified-by-usage valType="String">{"Extrinsic": 2699, "Input": 2690, "Output": 2690}</last-modified-by-usage>
+      <outputs-generated-by-type valType="String">{}</outputs-generated-by-type>
+      <contains-significant-data valType="Boolean">false</contains-significant-data>
+    </Container>
+    <Container Name="Graphics" Version="1.0">
+      <container-type valType="String">Ansys.Graphics.GraphicsAddin:graphics</container-type>
+      <static-id valType="String">Graphics</static-id>
+      <storage-scheme-id valType="String">version-1-format</storage-scheme-id>
+      <deleted-sources valType="String">[]</deleted-sources>
+      <last-updated valType="Int64">0</last-updated>
+      <last-modified-by-usage valType="String">{"Extrinsic": 104166, "Input": 2700, "Output": 2700}</last-modified-by-usage>
+      <outputs-generated-by-type valType="String">{}</outputs-generated-by-type>
+      <contains-significant-data valType="Boolean">false</contains-significant-data>
+    </Container>
+    <Container Name="Units" Version="1.0">
+      <container-type valType="String">Ansys.Units.Commands.Addin:Units</container-type>
+      <static-id valType="String">Units</static-id>
+      <storage-scheme-id valType="String">version-1-format</storage-scheme-id>
+      <deleted-sources valType="String">[]</deleted-sources>
+      <last-updated valType="Int64">0</last-updated>
+      <last-modified-by-usage valType="String">{"Extrinsic": 2701, "Input": 3829, "Output": 2701}</last-modified-by-usage>
+      <outputs-generated-by-type valType="String">{}</outputs-generated-by-type>
+      <contains-significant-data valType="Boolean">false</contains-significant-data>
+      <Object Name="/Units/UnitSystemProjectSettings:UnitSystemProjectSettings" Version="1.0">
+        <class-type valType="String">UnitSystemProjectSettings</class-type>
+        <object-name valType="String">UnitSystemProjectSettings</object-name>
+        <member-data valType="String">{"DisplayText": "UnitSystemProjectSettings", "DataContainerUnitSystemRegistry": {"Geometry": "DesignModelerUnitSystem_mm", "Geometry 1": "DesignModelerUnitSystem_mm", "Geometry 4": "DesignModelerUnitSystem_m", "Geometry 3": "DesignModelerUnitSystem_m", "Geometry 2": "DesignModelerUnitSystem_m", "Geometry 5": "DesignModelerUnitSystem_m", "Geometry 11": "DesignModelerUnitSystem_mm", "Geometry 6": "DesignModelerUnitSystem_m", "Geometry 9": "DesignModelerUnitSystem_m", "Geometry 8": "DesignModelerUnitSystem_m", "Geometry 10": "DesignModelerUnitSystem_m", "Geometry 12": "DesignModelerUnitSystem_m", "Geometry 13": "DesignModelerUnitSystem_m", "Geometry 14": "DesignModelerUnitSystem_m"}}</member-data>
+      </Object>
+      <Object Name="/Units/UnitSystem:UnitSys" Version="1.0">
+        <class-type valType="String">UnitSystem</class-type>
+        <object-name valType="String">UnitSys</object-name>
+        <member-data valType="String">{"DisplayText": "Metric (kg,m,s,°C,A,N,V)", "ChangedQuantityUnits": {}, "UnitSystemName": "MKS_STANDARD", "BaseUnitSystemName": "SI", "IsProjectUnitSystem": True, "IsDefault": False}</member-data>
+      </Object>
+      <Object Name="/Units/UnitSystem:UnitSys 1" Version="1.0">
+        <class-type valType="String">UnitSystem</class-type>
+        <object-name valType="String">UnitSys 1</object-name>
+        <member-data valType="String">{"DisplayText": "DesignModeler Unit System (m, degree)", "ChangedQuantityUnits": {"Angle": "degree", "Temperature": "C", "Density Derivative wrt Temperature": "kg m^-3 C^-1", "Energy Source Coefficient": "W m^-3 C^-1", "Heat Transfer Coefficient": "W m^-2 C^-1", "Inverse Angle": "degree^-1", "Molar Entropy": "J mol^-1 C^-1", "Piezoelectric Strain Coefficient": "A s N^-1", "Piezoelectric Stress Coefficient": "A s m^-2", "Pressure Derivative wrt Temperature": "Pa C^-1", "Seebeck Coefficient": "V C^-1", "Specific Entropy": "J kg^-1 C^-1", "Specific Heat Capacity": "J kg^-1 C^-1", "Stress Per Temperature": "Pa C^-1", "Temperature Difference": "C", "Temperature Gradient": "C m^-1", "InvTemp1": "C^-1", "InvTemp2": "C^-2", "InvTemp3": "C^-3", "InvTemp4": "C^-4", "Thermal Capacitance": "J C^-1", "Thermal Conductance": "W C^-1", "Thermal Conductivity": "W m^-1 C^-1", "Thermal Contact Resistance": "W^-1 m^2 C", "Thermal Expansivity": "C^-1"}, "UnitSystemName": "DesignModelerUnitSystem_m", "BaseUnitSystemName": "SI", "IsProjectUnitSystem": False, "IsDefault": False}</member-data>
+      </Object>
+      <Object Name="/Units/UnitSystem:UnitSys 2" Version="1.0">
+        <class-type valType="String">UnitSystem</class-type>
+        <object-name valType="String">UnitSys 2</object-name>
+        <member-data valType="String">{"DisplayText": "DesignModeler Unit System (mm, degree)", "ChangedQuantityUnits": {"Angle": "degree", "Length": "mm", "Temperature": "C", "Acceleration": "mm s^-2", "Area": "mm^2", "Concentration": "mm^-3", "Contact Resistance": "mm^2 s kg^-1", "Current Transfer Coefficient": "A mm^-2 V^-1", "Density": "kg mm^-3", "Density Derivative": "mm^-2 s^2", "Density Derivative wrt Temperature": "kg mm^-3 C^-1", "Electric Charge Density": "A s mm^-3", "Electric Conductance Per Unit Area": "S mm^-2", "Electric Current Density": "A mm^-2", "Electric Current Source": "A mm^-3", "Electric Field": "V mm^-1", "Electrical Conductivity": "S mm^-1", "Electrical Contact Resistance": "S^-1 mm^2", "Electrical Resistivity": "ohm mm", "Energy Source": "W mm^-3", "Energy Source Coefficient": "W mm^-3 C^-1", "Enthalpy Variance": "mm^4 s^-4", "Epsilon": "mm^2 s^-3", "Epsilon Flux": "W mm^-2 s^-1", "Epsilon Flux Coefficient": "kg mm^-2 s^-2", "Epsilon Source": "W mm^-3 s^-1", "Epsilon Source Coefficient": "kg mm^-3 s^-2", "Flame Surface Density Source": "mm^-1 s^-1", "Force Intensity": "N mm^-1", "Fracture Energy": "J mm^-2", "Heat Flux": "W mm^-2", "Heat Flux in": "W mm^-2", "Heat Generation": "W mm^-3", "Heat Transfer Coefficient": "W mm^-2 C^-1", "Interphase Transfer Coefficient": "kg mm^-2 s^-1", "Inverse Angle": "degree^-1", "Inverse Area": "mm^-2", "Inverse Length": "mm^-1", "k": "mm^2 s^-2", "k Flux": "W mm^-2", "k Flux Coefficient": "kg mm^-2 s^-1", "k Source": "W mm^-3", "k Source Coefficient": "kg mm^-3 s^-1", "Kinematic Diffusivity": "mm^2 s^-1", "Magnetic Field": "A mm^-1", "Magnetic Field Intensity": "A mm^-1", "Magnetic Potential": "T mm", "Magnetic Permeability": "H mm^-1", "Mass Concentration": "kg mm^-3", "Mass Concentration Rate": "kg mm^-3 s^-1", "Mass Flow Rate Per Area": "kg s^-1 mm^-2", "Mass Flow Rate Per Length": "kg s^-1 mm^-1", "Mass Flow Rate Per Volume": "kg s^-1 mm^-3", "Mass Flux": "kg s^-1 mm^-2", "Mass Flux Coefficient": "kg s^-1 mm^-2", "Mass Per Area": "kg mm^-2", "Mass Source": "kg s^-1 mm^-3", "Mass Source Coefficient": "kg s^-1 mm^-3", "Material Impedance": "kg mm^-2 s^-1", "Molar Concentration": "mol mm^-3", "Molar Concentration Rate": "mol mm^-3 s^-1", "Molar Entropy": "J mol^-1 C^-1", "Molar Volume": "mm^3 mol^-1", "Moment": "N mm", "Moment of Inertia of Area": "mm^2 mm^2", "Moment of Inertia of Mass": "kg mm^2", "Momentum Source": "kg mm^-2 s^-2", "Momentum Source Lin Coeff": "kg mm^-3 s^-1", "Momentum Source Quad Coeff": "kg mm^-4", "Number Source": "mm^-3 s^-1", "Omega Source": "kg mm^-3 s^-2", "Piezoelectric Strain Coefficient": "A s N^-1", "Piezoelectric Stress Coefficient": "A s m^-2", "Pressure Derivative wrt Temperature": "Pa C^-1", "PSD Acceleration": "mm^2 s^-4 Hz^-1", "PSD Displacement": "mm^2 Hz^-1", "PSD Moment": "N^2 mm^2 Hz^-1", "PSD Strain": "mm^2 mm^-2 Hz^-1", "PSD Velocity": "mm^2 s^-2 Hz^-1", "Section Modulus": "mm^3", "Seebeck Coefficient": "V C^-1", "Shock Velocity": "s mm^-1", "Soot Cross Coefficient": "mm^3 mol^-1 s^-1", "Specific Entropy": "J kg^-1 C^-1", "Specific Flame Surface Density": "mm^2 kg^-1", "Specific Heat Capacity": "J kg^-1 C^-1", "Specific Volume": "kg^-1 mm^3", "Specific Weight": "N mm^-3", "Stiffness": "N mm^-1", "Strain": "mm mm^-1", "Stress Per Temperature": "Pa C^-1", "Surface Tension": "N mm^-1", "Temperature Difference": "C", "Temperature Gradient": "C mm^-1", "InvTemp1": "C^-1", "InvTemp2": "C^-2", "InvTemp3": "C^-3", "InvTemp4": "C^-4", "Temperature Variance Source": "kg mm^-3 s^-1 C^2", "Thermal Capacitance": "J C^-1", "Thermal Conductance": "W C^-1", "Thermal Conductivity": "W mm^-1 C^-1", "Thermal Contact Resistance": "W^-1 mm^2 C", "Thermal Expansivity": "C^-1", "Torque": "N mm", "Total Radiative Intensity": "W mm^-2 sr^-1", "Translational Damping": "N s mm^-1", "Turbulent Heat Flux": "mm^3 s^-3", "Velocity": "mm s^-1", "Volume": "mm^3", "Volumetric": "kg mm^-3", "Volumetric Flow": "mm^3 s^-1", "Volumetric Flow in": "mm^3 s^-1", "Warping Factor": "mm^6"}, "UnitSystemName": "DesignModelerUnitSystem_mm", "BaseUnitSystemName": "SI", "IsProjectUnitSystem": False, "IsDefault": False}</member-data>
+      </Object>
+    </Container>
+    <Container Name="DpdbContainer" Version="1.0">
+      <container-type valType="String">Ansys.Dpdb.DpdbAddin:DpdbContainer</container-type>
+      <static-id valType="String">DpdbContainer</static-id>
+      <storage-scheme-id valType="String">version-1-format</storage-scheme-id>
+      <deleted-sources valType="String">[]</deleted-sources>
+      <last-updated valType="Int64">0</last-updated>
+      <last-modified-by-usage valType="String">{"Extrinsic": 3915, "Input": 83950, "Output": 2704}</last-modified-by-usage>
+      <outputs-generated-by-type valType="String">{}</outputs-generated-by-type>
+      <contains-significant-data valType="Boolean">true</contains-significant-data>
+      <Object Name="/DpdbContainer/DpdbSettings:Dpdb Settings Entity" Version="1.0">
+        <class-type valType="String">DpdbSettings</class-type>
+        <object-name valType="String">Dpdb Settings Entity</object-name>
+        <member-data valType="String">{"DisplayText": "Dpdb Settings Entity", "ServerUrl": "https://localhost/dcs", "ServerUserName": "dcadmin", "ServerPassword": "dcadmin", "DatabaseName": None, "StartLocalEvaluatorOnUpdate": True, "ExecutionTime": 300, "UpdateDesignPointInSteps": False}</member-data>
+      </Object>
+      <Object Name="/DpdbContainer/ConnectionInfo:ConnectionInfo" Version="1.0">
+        <class-type valType="String">ConnectionInfo</class-type>
+        <object-name valType="String">ConnectionInfo</object-name>
+        <member-data valType="String">{"DisplayText": "ConnectionInfo", "IsConnected": False, "DbName": None, "LastSyncStateId": "00000000-0000-0000-0000-000000000000", "ConnectionSettingsModified": False, "DesignPointsBeingEvaluated": [], "ParameterToDpdbId": {}, "DpReferenceToDpdbDatabaseId": {}}</member-data>
+      </Object>
+    </Container>
+  </Containers>
+</Storage>

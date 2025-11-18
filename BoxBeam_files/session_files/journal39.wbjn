@@ -1,0 +1,54 @@
+# encoding: utf-8
+# 2020 R1
+SetScriptVersion(Version="20.1.164")
+system1 = GetSystem(Name="SYS 10")
+results1 = system1.GetContainer(ComponentName="Results")
+results1.Edit()
+system2 = GetSystem(Name="SYS 2")
+system3 = GetSystem(Name="SYS 3")
+system2.Move(
+    Position="Right",
+    RelativeTo=system3)
+system4 = GetSystem(Name="SYS 7")
+system5 = GetSystem(Name="SYS 6")
+system4.Move(
+    Position="Right",
+    RelativeTo=system5)
+system6 = GetSystem(Name="SYS 8")
+system6.Move(
+    Position="Right",
+    RelativeTo=system4)
+system1.Copy(KeepConnections=True)
+system7 = GetSystem(Name="SYS 12")
+system7.Move(
+    Position="Right",
+    RelativeTo=system1)
+system8 = GetSystem(Name="SYS 4")
+system8.Move(
+    Position="Right",
+    RelativeTo=system7)
+geometry1 = system7.GetContainer(ComponentName="Geometry")
+geometry1.Edit()
+modelComponent1 = system7.GetComponent(Name="Model")
+modelComponent1.Refresh()
+setupComponent1 = system7.GetComponent(Name="Setup")
+setupComponent1.Refresh()
+solutionComponent1 = system7.GetComponent(Name="Solution")
+solutionComponent1.Refresh()
+resultsComponent1 = system7.GetComponent(Name="Results")
+resultsComponent1.Refresh()
+results2 = system7.GetContainer(ComponentName="Results")
+results2.Edit()
+Save(Overwrite=True)
+results2.Edit()
+model1 = system7.GetContainer(ComponentName="Model")
+model1.Exit()
+model1.Edit()
+geometry1.Exit()
+model1.Exit()
+results2.Edit()
+system7.Copy(KeepConnections=True)
+model2 = system1.GetContainer(ComponentName="Model")
+model2.Exit()
+model1.Exit()
+Save(Overwrite=True)
